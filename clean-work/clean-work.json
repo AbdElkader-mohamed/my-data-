@@ -1,0 +1,155 @@
+{
+  "about":{
+    "img":"./assets/images/cleaning-concept-with-man-showing-business-card.jpg",
+    "header":"Cleaning Service Agency Since 2018",
+    "content1":"Tooplate website provides a variety of latest HTML templates or Bootstrap 5 Themes for your",
+    "linkHash":"business websites",
+    "content2":"Clean Work is a blue color theme HTML CSS template for your company website. You may use this template for any purpose."
+  },
+  "card":{
+    "cardTitle1":"Office Cleaning",
+    "cardTitle2":"Affordable Service",
+    "cardTitle3":"Expert Team",
+    "cardContent1":"Thank you for choosing our templates for your work. Please tell your friends about Tooplate's",
+    "cardContent2":"Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+    "cardContent3":"You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you.",
+    "linkHash":"free HTML templates",
+    "salary":820,
+    "hours":5,
+    "firstImg":"./assets/images/services/person-taking-care-office.jpg",
+    "secondImg":"./assets/images/services/people-taking-care-office-cleaning.jpg"
+  },
+  "customers":[
+    {
+      "name":"Marie",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-01.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star",
+      "star5":"bi bi-star"
+    },
+    {
+      "name":"Boda",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-03.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star-fill second-color",
+      "star5":"bi bi-star"
+    },
+    {
+      "name":"Katie",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-05.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star",
+      "star4":"bi bi-star",
+      "star5":"bi bi-star"
+    },
+    {
+      "name":"Nana",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-02.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star",
+      "star5":"bi bi-star"
+    },
+    {
+      "name":"Josh",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-04.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star-fill second-color",
+      "star5":"bi bi-star-fill second-color"
+    },
+    {
+      "name":"Shai",
+      "comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.",
+      "img":"./assets/images/avatar/happy-customer-06.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star-fill second-color",
+      "star5":"bi bi-star"
+    }
+  ],
+  "offers":[
+    {
+      "cardTitle":"Office Cleaning",
+      "cardContent":"Best Cleaning Service Provider Cleaning Your office lorem lorem lorem",
+      "salary":820,
+      "hours":5,
+      "firstImg":"./assets/images/services/person-taking-care-office.jpg",
+      "secondImg":"./assets/images/services/people-taking-care-office-cleaning.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star",
+      "star5":"bi bi-star"
+    },
+    {
+      "cardTitle":"Kitchen Cleaning",
+      "cardContent":"Best Cleaning Service Provider Cleaning Your Kitchen lorem lorem lorem",
+      "salary":640,
+      "hours":4,
+      "firstImg":"./assets/images/services/woman-holding-rag-detergent-cleaning-cooker.jpg",
+      "secondImg":"./assets/images/services/young-smiling-woman-wearing-rubber-gloves-cleaning-stove.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star-fill second-color",
+      "star5":"bi bi-star"
+    },
+    {
+      "case":"true",
+      "cardTitle":"Car Washing",
+      "cardContent":"Best Cleaning Service Provider Cleaning Your car lorem lorem lorem",
+      "salary":240,
+      "hours":5,
+      "firstImg":"./assets/images/services/man-polishing-car-inside.jpg",
+      "secondImg":"./assets/images/services/man-polishing-car-inside-car-service.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star",
+      "star5":"bi bi-star"
+    },
+    {
+      "case":"true",
+      "cardTitle":"Factory Cleaning",
+      "cardContent":"Best Cleaning Service Provider Cleaning Your Factory lorem lorem lorem",
+      "salary":6800,
+      "hours":30,
+      "firstImg":"./assets/images/services/close-up-mop-cleaning-industrial-plant-floor.jpg",
+      "secondImg":"./assets/images/services/professional-industrial-cleaner-protective-uniform-cleaning-floor-food-processing-plant.jpg",
+      "star1":"bi bi-star-fill second-color",
+      "star2":"bi bi-star-fill second-color",
+      "star3":"bi bi-star-fill second-color",
+      "star4":"bi bi-star-fill second-color",
+      "star5":"bi bi-star-fill second-color"
+    }
+  ],
+  "team":[
+    {
+      "img":"./assets/images/teams/young-cleaning-man-wearing-casual-clothes.jpg",
+      "name":"Boda",
+      "content":"Josh he is Happy Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt",
+      "PhoneNumber":"07775000"
+    },
+    {
+      "img":"./assets/images/teams/happy-young-woman-wiping-kitchen-counter-wearing-yellow-gloves.jpg",
+      "name":"Nana",
+      "content":"Nana she is Happy Lorem ipsum dolor sit amet,  adipiscing tempor incididunt",
+      "PhoneNumber":"07775000"
+      
+    }
+  ]
+}
