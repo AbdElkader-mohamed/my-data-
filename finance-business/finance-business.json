@@ -31,7 +31,9 @@
       },
       {
         "img":"./assets/images/more-info.jpg",
+        "img2":"./assets/images/about-image.jpg",
         "smTitle":"WHO WE ARE",
+        "smTitle2":"OUR SOLID BACKGROUND ON FINANCE",
         "head":"Get to know about",
         "em":"our company",
         "content1":"Curabitur pulvinar sem a leo tempus facilisis. Sed non sagittis neque. Nulla conse quat tellus nibh, id molestie felis sagittis ut. Nam ullamcorper tempus ipsum in cursus",
@@ -74,7 +76,7 @@
     },
     {
       "img":"./assets/images/avatar/team_02.jpg",
-      "name":"George Walker",
+      "name":"Mary Houston",
       "job":"Chief Financial Analyst",
       "content":"'Nulla ullamcorper, ipsum vel condimentum congue, mi odio vehicula tellus, sit amet malesuada justo sem sit amet quam. Pellentesque in sagittis lacus.'"
     },
@@ -83,6 +85,32 @@
       "name":"David Wood",
       "job":"Chief Accountant",
       "content":"'Ut ultricies maximus turpis, in sollicitudin ligula posuere vel. Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique.'"
+    }
+  ],
+  "tabsData":[
+    {
+      "tabHead":"Market Analysis",
+      "tabImg":"./assets/images/single_service_01.jpg",
+      "tabContent1":"Vivamus sed feugiat elit. Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam.",
+      "tabContent2":"Proin eu molestie risus. Etiam suscipit pretium odio, at consectetur nisi. Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante."
+    },
+    {
+      "tabHead":"Financial Data",
+      "tabImg":"./assets/images/single_service_02.jpg",
+      "tabContent1":"Sed ut dolor in augue cursus ultrices. Vivamus mauris turpis, auctor vel facilisis in, tincidunt vel diam. Sed vitae scelerisque orci. Nunc non magna orci. Aliquam commodo mauris ante, quis posuere nibh vestibulum sit amet",
+      "tabContent2":"Pellentesque pretium, massa at placerat vehicula, neque turpis pulvinar tortor, eget convallis lorem odio non tortor. Donec massa est, fermentum sit amet felis ac, maximus luctus elit. Vivamus aliquet, dolor id imperdiet imperdiet, dui diam aliquet dui, a euismod metus enim ac velit. Vivamus eu tristique odio, vel tristique quam."
+    },
+    {
+      "tabHead":"Accounting Service",
+      "tabImg":"./assets/images/single_service_03.jpg",
+      "tabContent1":"Mauris lobortis quam id dictum dignissim. Donec pellentesque erat dolor, cursus dapibus turpis hendrerit quis. Suspendisse at suscipit arcu. Nulla sed erat lectus. Nulla facilisi. In sit amet neque sapien. Donec scelerisque mi at gravida efficitur. Nunc lacinia a est eu malesuada. Curabitur eleifend elit sapien, sed pulvinar orci luctus eget.",
+      "tabContent2":"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vel ultrices nulla, ac tincidunt eros. Aenean quis tellus velit. Praesent pretium justo non auctor condimentum."
+    },
+    {
+      "tabHead":"Overall Evaluation",
+      "tabImg":"./assets/images/single_service_04.jpg",
+      "tabContent1":"Integer vehicula sapien quis dolor efficitur, eget molestie eros tempus. Curabitur sollicitudin, tortor at suscipit volutpat, nisi arcu aliquet dui, vitae semper sem turpis quis libero. Quisque vulputate lacinia nisl ac lobortis. Ut ultricies maximus turpis, in sollicitudin ligula posuere vel.",
+      "tabContent2":"Donec finibus maximus neque, vitae egestas quam imperdiet nec. Proin nec mauris eu tortor consectetur tristique. Etiam suscipit ante a odio consequat, in ornare lacus suscipit. Cras ac libero massa. Quisque rhoncus velit feugiat vulputate mollis. Donec nisl eros, malesuada sed nisi id, condimentum condimentum quam."
     }
   ]
 }
