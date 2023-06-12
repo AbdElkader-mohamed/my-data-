@@ -4525,7 +4525,23 @@
       "imageOne5":"./assets/image/helperData/6e.webp",
       "imageOne6":"./assets/image/helperData/6f.webp",
       "story":"Keep it simple in this lightweight skirt, combining an overlapping A-line design with athletic fabric and a comfy adjustable waist, and finished with an embroidered sign-off at the hem."
+    },
+    {
+      "id":276,
+      "type":["girls","kids","clothing","trending","collections","cottons"],
+      "productName":"PUMA x TINY COTTONS Printed Sweatpants Kids",
+      "cost":3827,
+      "smTitle":"Taxes & Duties included",
+      "colors":[2,"brown"],
+      "size":[116,128,140,152,164,176],
+      "imageOne1":"./assets/image/helperData/7a.webp",
+      "imageOne2":"./assets/image/helperData/7b.webp",
+      "imageOne3":"./assets/image/helperData/7c.webp",
+      "imageOne4":"./assets/image/helperData/7d.webp",
+      "imageOne5":"./assets/image/helperData/7e.webp",
+      "imageOne6":"./assets/image/helperData/7f.webp",
+      "story":"Cuteness doesn't begin to cover it with these charming sweatpants. As a design collaboration between PUMA and the contemporary kids' brand TINY COTTONS, these sweatpants feature a Paris-inspired all-over graphic print that'll put a smile on your little one's face."
     }
   ],
-  "info":[1,272]
+  "info":[1,276]
 }
