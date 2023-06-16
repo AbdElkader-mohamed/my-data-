@@ -2,7 +2,7 @@
   "data":[
     {
       "id":1,
-      "type":["kids","boys","clothing","collections","pokemon","lifestyle","sale" ],
+      "type":["kids","boys","clothing","collections","pokemon","lifestyle","sale" ,"new",["pokemon"] ],
       "productName":"PUMA x POKÉMON Tee Youth",
       "cost":1726,
       "costLeft":2837,
@@ -19,7 +19,7 @@
     },
     {
       "id":2,
-      "type":["kids","boys","clothing","sale"],
+      "type":["kids","boys","clothing","sale",["tee"]],
       "productName":"SMALL WORLD Tee Kids",
       "cost":1358,
       "costLeft":2837,
@@ -36,7 +36,7 @@
     },
     {
       "id":3,
-      "type":["kids","boys","clothing","sale"],
+      "type":["kids","boys","clothing","sale",["tee"]],
       "productName":"Small World Tee Kids",
       "cost":1358,
       "costLeft":2837,
@@ -53,7 +53,7 @@
     },
     {
       "id":4,
-      "type":["kids","girls","clothing","sale"],
+      "type":["kids","girls","clothing","sale",["tee"]],
       "productName":"Small World Tee Kids",
       "cost":1358,
       "costLeft":1567,
@@ -70,7 +70,7 @@
     },
     {
       "id":5,
-      "type":["kids","boys","clothing","collections","motorSport","sale"],
+      "type":["kids","boys","clothing","collections","motorSport","sale",["bmw","boys"]],
       "productName":"BMW M Motorsport ESS Logo Tee Youth",
       "cost":2478,
       "costLeft":3647,
@@ -87,7 +87,7 @@
     },
     {
       "id":6,
-      "type":["kids","boys","clothing","collections","pokemon","sale"],
+      "type":["kids","boys","clothing","collections","pokemon","sale",["pokemon"]],
       "productName":"PUMA x POKÉMON Tee Youth",
       "cost":3726,
       "costLeft":8365,
@@ -104,7 +104,7 @@
     },
     {
       "id":7,
-      "type":["kids","boys","clothing"],
+      "type":["kids","boys","clothing","sports",["sports","boys"] ],
       "productName":"Evostripe Tee Youth",
       "cost":2937,
       "solid":true,
@@ -121,7 +121,7 @@
     },
     {
       "id":8,
-      "type":["kids","boys","clothing","football"],
+      "type":["kids","boys","clothing","football","sports",["sports","boys"] ],
       "productName":"FIT Tee Youth",
       "cost":1649,
       "smTitle":"Taxes & Duties included",
@@ -137,7 +137,7 @@
     },
     {
       "id":9,
-      "type":["kids","girls","clothing"],
+      "type":["kids","girls","clothing","new",["tee","girls"] ],
       "productName":"SMALL WORLD Tee Kids",
       "cost":1983,
       "smTitle":"Taxes & Duties included",
@@ -153,7 +153,7 @@
     },
     {
       "id":10,
-      "type":["kids","boys","clothing"],
+      "type":["kids","boys","clothing","new","classic",["tee","boys"] ],
       "productName":"Classics Super PUMA Tee Youth",
       "cost":1283,
       "smTitle":"Taxes & Duties included",
@@ -169,7 +169,7 @@
     },
     {
       "id":11,
-      "type":["kids","boys","clothing","trending"],
+      "type":["kids","boys","clothing","trending",["tee","boys"] ],
       "productName":"Essentials+ Two-Tone Logo Youth Tee",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -185,7 +185,7 @@
     },
     {
       "id":12,
-      "type":["kids","boys","clothing","trending"],
+      "type":["kids","boys","clothing","trending",["boys","hoodie"] ],
       "productName":"Essentials Big Logo Youth Hoodie",
       "cost":1937,
       "smTitle":"Taxes & Duties included",
@@ -201,7 +201,7 @@
     },
     {
       "id":13,
-      "type":["kids","boys","clothing","collections","fandom","trending"],
+      "type":["kids","boys","clothing","collections","fandom","trending",["boys","hoodie"] ],
       "productName":"Fandom Hoodie Youth",
       "cost":1287,
       "smTitle":"Taxes & Duties included",
@@ -217,7 +217,7 @@
     },
     {
       "id":14,
-      "type":["kids","boys","clothing","collections","cottons"],
+      "type":["kids","boys","clothing","collections","cottons",["cottons"] ],
       "productName":"PUMA x TINY COTTONS Printed Crew Neck Sweatshirt Kids",
       "cost":1653,
       "smTitle":"Taxes & Duties included",
@@ -233,7 +233,7 @@
     },
     {
       "id":15,
-      "type":["kids","girls","clothing","collections","cottons","trending"],
+      "type":["kids","girls","clothing","collections","cottons","trending",["cottons"]],
       "productName":"PUMA x TINY COTTONS Printed Crew Neck Sweatshirt Kids",
       "cost":1653,
       "solid":true,
@@ -250,7 +250,7 @@
     },
     {
       "id":16,
-      "type":["kids","boys","clothing","collections","cottons"],
+      "type":["kids","boys","clothing","collections","cottons",["cottons"]],
       "productName":"PUMA x TINY COTTONS Printed Sweatpants Kids",
       "cost":1582,
       "smTitle":"Taxes & Duties included",
@@ -266,7 +266,7 @@
     },
     {
       "id":17,
-      "type":["kids","boys","clothing","sports","basketball","meloBall"],
+      "type":["kids","boys","clothing","sports","basketball","meloBall",["meloBall"] ],
       "productName":"PUMA x MELO DIME Pants Youth",
       "cost":1582,
       "smTitle":"Taxes & Duties included",
@@ -282,7 +282,7 @@
     },
     {
       "id":18,
-      "type":["kids","boys","clothing","sports","basketball","meloBall"],
+      "type":["kids","boys","clothing","sports","basketball","meloBall",["meloBall"]],
       "productName":"PUMA x MELO Dime Jacket Youth",
       "cost":1235,
       "smTitle":"Taxes & Duties included",
@@ -298,7 +298,7 @@
     },
     {
       "id":19,
-      "type":["kids","boys","clothing","sports","basketball","meloBall"],
+      "type":["kids","boys","clothing","sports","basketball","meloBall",["meloBall"]],
       "productName":"PUMA x MELO Tee Youth",
       "cost":1732,
       "smTitle":"Taxes & Duties included",
@@ -314,7 +314,7 @@
     },
     {
       "id":20,
-      "type":["kids","boys","clothing","sports","basketball","meloBall"],
+      "type":["kids","boys","clothing","sports","basketball","meloBall",["meloBall"]],
       "productName":"Block Party Basketball Tee Youth",
       "cost":1542,
       "smTitle":"Taxes & Duties included",
@@ -330,7 +330,7 @@
     },
     {
       "id":21,
-      "type":["kids","boys","clothing"],
+      "type":["kids","boys","clothing","new","classic",["boys"]],
       "productName":"Essentials Logo Youth Tee",
       "cost":1283,
       "solid":true,
@@ -347,7 +347,7 @@
     },
     {
       "id":22,
-      "type":["kids","girls","clothing","trending"],
+      "type":["kids","girls","clothing","trending",["girls"]],
       "productName":"Essentials+ Bloom Printed Tee Youth",
       "cost":2134,
       "smTitle":"Taxes & Duties included",
@@ -363,7 +363,7 @@
     },
     {
       "id":23,
-      "type":["kids","girls","clothing"],
+      "type":["kids","girls","clothing","new",["girls"] ],
       "productName":"Alpha Printed Tee Youth",
       "cost":1827,
       "smTitle":"Taxes & Duties included",
@@ -379,7 +379,7 @@
     },
     {
       "id":24,
-      "type":["kids","girls","clothing","sale"],
+      "type":["kids","girls","clothing","sale",["girls"] ],
       "productName":"Essentials Logo Youth Tee",
       "cost":1092,
       "costLeft":1892,
@@ -396,7 +396,7 @@
     },
     {
       "id":25,
-      "type":["kids","girls","clothing","trending"],
+      "type":["kids","girls","clothing","trending","new",["girls"] ],
       "productName":"Essentials+ Logo Knotted Youth Tee",
       "cost":1262,
       "smTitle":"Taxes & Duties included",
@@ -412,7 +412,7 @@
     },
     {
       "id":26,
-      "type":["kids","girls","boys","clothing","trending" ],
+      "type":["kids","girls","clothing","trending" ,["girls"] ],
       "productName":"Active Youth Tee",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -428,7 +428,7 @@
     },
     {
       "id":27,
-      "type":["kids","girls","boys","clothing","collections","pokemon","trending" ],
+      "type":["kids","girls","clothing","collections","pokemon","trending" ,["pokemon"] ],
       "productName":"PUMA x POKÉMON Hoodie Youth",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -444,7 +444,7 @@
     },
     {
       "id":28,
-      "type":["kids","girls","boys","women","hoodie","clothing","sale"],
+      "type":["kids","girls","clothing","women","hoodie","sale",["girls"] ],
       "productName":"Essentials Logo Youth Hoodie",
       "cost":1999,
       "costLeft":2938,
@@ -461,7 +461,7 @@
     },
     {
       "id":29,
-      "type":["kids","girls","women","tracksuit","clothing"],
+      "type":["kids","girls","clothing","women","tracksuit","new",["girls"] ],
       "productName":"Classic Tricot Tracksuit Youth",
       "cost":1569,
       "smTitle":"Taxes & Duties included",
@@ -477,7 +477,7 @@
     },
     {
       "id":30,
-      "type":["man","jackets","sports","tracksuit","collections","select","trackmeet","clothing"],
+      "type":["man","clothing","jackets","sports","tracksuit","collections","select","trackmeet",["tracksuit"] ],
       "productName":"Track Meet T7 Track Jacket Men",
       "cost":6984,
       "smTitle":"Taxes & Duties included",
@@ -493,7 +493,7 @@
     },
     {
       "id":31,
-      "type":["men","shoes","sneakers","collections","lifestyle","cali","sale","suede","caPro"],
+      "type":["men","shoes","sneakers","collections","lifestyle","cali","sale","suede","caPro","new",["suede"] ],
       "productName":"CA Pro Classic Trainers",
       "cost":5899,
       "costLeft":8699,
@@ -511,7 +511,7 @@
     },
     {
       "id":32,
-      "type":["men","shoes","sneakers","sale","collections","lifestyle","pokemon","kids","girls","boys","trending" ],
+      "type":["men","shoes","sneakers","sale","collections","lifestyle","pokemon","kids","girls","boys","trending",["pokemon"]  ],
       "productName":"PUMA x POKÉMON Rider FV Pikachu Sneakers",
       "cost":5449,
       "costLeft":6399,
@@ -528,7 +528,7 @@
     },
     {
       "id":33,
-      "type":["men","shoes","sneakers","sale","collections","slipstream","lifestyle","slipstream"],
+      "type":["men","shoes","sneakers","sale","collections","slipstream","lifestyle","sustainable",["sneakers"] ],
       "productName":"Slipstream Always On Sneakers",
       "cost":6449,
       "costLeft":9699,
@@ -545,7 +545,7 @@
     },
     {
       "id":34,
-      "type":["men","shoes","running","sale","collections","lifestyle","mirage","riderPack"],
+      "type":["men","shoes","running","sale","collections","lifestyle","mirage","riderPack",["riderPack"] ],
       "productName":"Future Rider Play On Sneakers",
       "cost":4589,
       "costLeft":5697,
@@ -562,7 +562,7 @@
     },
     {
       "id":35,
-      "type":["men","shoes","sports","sale","training","running","collections","lifestyle","mirage","riderPack"],
+      "type":["women","shoes","running","sports","sale","man","training","collections","lifestyle","mirage","riderPack","new",["riderPack"] ],
       "productName":"RS-X Reinvention Trainers",
       "cost":6879,
       "costLeft":7629,
@@ -579,7 +579,7 @@
     },
     {
       "id":36,
-      "type":["men","shoes","running","sale","collections","lifestyle","collection"],
+      "type":["men","shoes","running","sale","collections","lifestyle","collection",["sneakers"] ],
       "productName":"All Day Active Sneakers",
       "cost":3572,
       "costLeft":4689,
@@ -596,7 +596,7 @@
     },
     {
       "id":37,
-      "type":["men","women","shoes","sale","sneakers","collections","lifestyle","mirage","riderPack","trending" ],
+      "type":["women","shoes","sneakers","sale","man","collections","lifestyle","mirage","riderPack","trending","new",["riderPack"] ],
       "productName":"Prevail Sneakers",
       "cost":4569,
       "costLeft":6989,
@@ -613,7 +613,7 @@
     },
     {
       "id":38,
-      "type":["men","women","shoes","sale","sneakers","collections","lifestyle","mirage","riderPack"],
+      "type":["men","shoes","sneakers","sale","women","collections","lifestyle","mirage","riderPack",["riderPack"] ],
       "productName":"Rider FV Sneakers",
       "cost":3569,
       "costLeft":5989,
@@ -630,7 +630,7 @@
     },
     {
       "id":39,
-      "type":["men","women","shoes","running","sports","training","collections","lifestyle","sustainable","smash"],
+      "type":["women","shoes","running","man","sports","training","collections","lifestyle","sustainable","smash","new",["riderPack"] ],
       "productName":"X-Ray 2 Square Trainers",
       "cost":6369,
       "smTitle":"Taxes & Duties included",
@@ -646,7 +646,7 @@
     },
     {
       "id":40,
-      "type":["men","shoes","sneakers","collections","lifestyle","njr","caPro"],
+      "type":["men","shoes","sneakers","collections","classic","lifestyle","njr","caPro",["sneakers"] ],
       "productName":"RBD Game Sneakers",
       "cost":3364,
       "smTitle":"Taxes & Duties included",
@@ -662,7 +662,7 @@
     },
     {
       "id":41,
-      "type":["men","women","shoes","sneakers","collections","mirage","riderPack"],
+      "type":["men","shoes","sneakers","women","collections","mirage","riderPack",["sneakers"] ],
       "productName":"All Day Active Sneakers",
       "cost":2344,
       "smTitle":"Taxes & Duties included",
@@ -679,7 +679,7 @@
     },
     {
       "id":42,
-      "type":["men","shoes","training","collections","suede","cali","smash"],
+      "type":["men","shoes","sneakers","training","collections","suede","cali","smash","sustainable",["sneakers"] ],
       "productName":" Game Trainers",
       "cost":4534,
       "smTitle":"Taxes & Duties included",
@@ -696,7 +696,7 @@
     },
     {
       "id":43,
-      "type":["men","women","shoes","sale","sneakers","collections","lifestyle","mirage","riderPack"],
+      "type":["women","shoes","sneakers","sale","man","collections","lifestyle","mirage","riderPack",["riderPack"] ],
       "productName":" Future Rider Play On Sneakers",
       "cost":3534,
       "costLeft":5534,
@@ -713,7 +713,7 @@
     },
     {
       "id":44,
-      "type":["men","shoes","sale","sneakers","smash","collections","lifestyle"],
+      "type":["men","shoes","sneakers","sale","classic","smash","collections","lifestyle",["sneakers"] ],
       "productName":" RBD Game Low Sneakers",
       "cost":3274,
       "costLeft":4654,
@@ -730,7 +730,7 @@
     },
     {
       "id":45,
-      "type":["men","women","shoes","sneakers","collections","lifestyle","caPro","cali"],
+      "type":["men","shoes","sneakers","women","collections","classic","lifestyle","caPro","cali",["sneakers"] ],
       "productName":" Rebound JOY Trainers",
       "cost":4727,
       "smTitle":"Taxes & Duties included",
@@ -747,7 +747,7 @@
     },
     {
       "id":46,
-      "type":["men","shoes","sale","sneakers","collections","lifestyle","smash","suede"],
+      "type":["men","shoes","sneakers","sale","75","collections","lifestyle","smash","suede",["suede"] ],
       "productName":"Smash v2 Trainers",
       "cost":2327,
       "costLeft":3527,
@@ -765,7 +765,7 @@
     },
     {
       "id":47,
-      "type":["men","shoes","sneakers","collections","lifestyle","vogue","suede","mmq","slipstream","caPro"],
+      "type":["men","shoes","sneakers","collections","new","lifestyle","vogue","suede","mmq","slipstream","caPro",["suede"] ],
       "productName":"MMQ Slipstream Lo Sneakers",
       "cost":5627,
       "smTitle":"Taxes & Duties included",
@@ -781,7 +781,7 @@
     },
     {
       "id":48,
-      "type":["men","shoes","sneakers","collections","suede","lifestyle","cali","smash"],
+      "type":["men","shoes","sneakers","collections","suede","lifestyle","cali","smash",["sneakers"] ],
       "productName":"Prevail Premium Sneakers",
       "cost":8020,
       "smTitle":"Taxes & Duties included",
@@ -797,7 +797,7 @@
     },
     {
       "id":49,
-      "type":["men","women","shoes","sneakers","sports","motorSport","speedCat","collections","lifestyle","mayze","smash","suede","caPro"],
+      "type":["women","shoes","sneakers","man","sports","motorSport","classic","speedCat","collections","lifestyle","mayze","smash","suede","caPro",["suede"] ],
       "productName":"SpeedCat LS Driving Shoes",
       "cost":4620,
       "smTitle":"Taxes & Duties included",
@@ -813,7 +813,7 @@
     },
     {
       "id":50,
-      "type":["men","women","sale","shoes","sneakers","collections","lifestyle","mayze"],
+      "type":["women","shoes","sneakers","sale","men","collections","lifestyle","mayze",["mayze"] ],
       "productName":"Mayze Stack Chelsea Boot Women",
       "cost":7620,
       "costLeft":8140,
@@ -830,7 +830,7 @@
     },
     {
       "id":51,
-      "type":["men","women","sale","shoes","sneakers","collections","select","ami","suede","lifestyle"],
+      "type":["men","shoes","sneakers","sale","women","75","collections","select","ami","suede","lifestyle",["suede"] ],
       "productName":"PUMA x AMI Suede VTG Sneakers",
       "cost":6479,
       "costLeft":10235,
@@ -848,7 +848,7 @@
     },
     {
       "id":52,
-      "type":["men","shoes","sneakers","collections","ami","select"],
+      "type":["men","shoes","sneakers","women","new","collections","ami","select",["ami"] ],
       "productName":"PUMA x AMI TRC Blaze Mid Sneakers",
       "cost":9349,
       "smTitle":"Taxes & Duties included",
@@ -865,7 +865,7 @@
     },
     {
       "id":53,
-      "type":["men","women","sale","shoes","sneakers","collection","lifestyle","vogue"],
+      "type":["women","shoes","sneakers","sale","man","collection","suede","lifestyle",["vogue"] ],
       "productName":"PUMA x VOGUE Slipstream Sneakers Women",
       "cost":3894,
       "costLeft":4584,
@@ -882,7 +882,7 @@
     },
     {
       "id":54,
-      "type":["men","women","shoes","sneakers","suede","collections","lifestyle","vogue"],
+      "type":["women","shoes","sneakers","men","suede","collections","lifestyle","vogue",["vogue"] ],
       "productName":"PUMA x VOGUE Suede Classic Sneakers Women",
       "cost":5689,
       "smTitle":"Taxes & Duties included",
@@ -898,7 +898,7 @@
     },
     {
       "id":55,
-      "type":["women","shoes","sneakers","collections","select","pam","lifestyle","suede","trending" ],
+      "type":["women","shoes","sneakers","man","collections","select","pam","lifestyle","suede","trending",["pam"]  ],
       "productName":"PUMA x PERKS AND MINI Suede VTG Sneakers",
       "cost":8677,
       "smTitle":"Taxes & Duties included",
@@ -914,7 +914,7 @@
     },
     {
       "id":56,
-      "type":["women","shoes","sneakers","collections","lifestyle","mayze"],
+      "type":["women","shoes","sneakers","new","collections","lifestyle","mayze",["mayze"] ],
       "productName":"Mayze Wedge Sneakers Women",
       "cost":5844,
       "smTitle":"Taxes & Duties included",
@@ -930,7 +930,7 @@
     },
     {
       "id":57,
-      "type":["men","women","shoes","sneakers","collections","mirage","select","mmq"],
+      "type":["women","shoes","sneakers","men","new","collections","mirage","select","mmq",["mmq"] ],
       "productName":"Extent Nitro Concrete Jungle Sneakers",
       "cost":4469,
       "smTitle":"Taxes & Duties included",
@@ -946,7 +946,7 @@
     },
     {
       "id":58,
-      "type":["men","women","shoes","sneakers","running","collections","lifestyle","suede","ragged"],
+      "type":["women","shoes","sneakers","men","running","collections","lifestyle","suede","ragged",["suede"] ],
       "productName":"PUMA x RHUIGI B-boy Suede Sneakers",
       "cost":7264,
       "smTitle":"Taxes & Duties included",
@@ -962,7 +962,7 @@
     },
     {
       "id":59,
-      "type":["men","women","shoes","shirts","sports","fitness","gem"],
+      "type":["men","shoes","sneakers","collections","lifestyle","collection","sports","fitness","gem",["sneakers"] ],
       "productName":"Luxe Sport Velophasis Sneakers",
       "cost":8739,
       "smTitle":"Taxes & Duties included",
@@ -978,7 +978,7 @@
     },
     {
       "id":60,
-      "type":["men","women","sale","shoes","sneakers","collections","lifestyle","riderPack"],
+      "type":["women","shoes","sneakers","sale","new","man","collections","lifestyle","riderPack",["riderPack"] ],
       "productName":"Rider FV Block Sneakers",
       "cost":4368,
       "costLeft":7168,
@@ -995,7 +995,7 @@
     },
     {
       "id":61,
-      "type":["men","women","sale","shoes","running","sports","nitro"],
+      "type":["men","shoes","running","sale","sports","nitro",["running","shoes"] ],
       "productName":"R78 Runner Trainers",
       "cost":3474,
       "costLeft":4381,
@@ -1012,7 +1012,7 @@
     },
     {
       "id":62,
-      "type":["men","women","shoes","collections","lifestyle","suede","smash","cali"],
+      "type":["men","shoes","running","women","75","collections","lifestyle","suede","smash","cali",["suede"] ],
       "productName":"Delphin Sneakers",
       "cost":5834,
       "smTitle":"Taxes & Duties included",
@@ -1029,7 +1029,7 @@
     },
     {
       "id":63,
-      "type":["men","women","shoes","sneakers","collections","select","mmq"],
+      "type":["men","shoes","sneakers","women","collections","select","mmq",["mmq"] ],
       "productName":"MMQ Blaze of Glory Sneakers",
       "cost":8448,
       "smTitle":"Taxes & Duties included",
@@ -1045,7 +1045,7 @@
     },
     {
       "id":64,
-      "type":["men","women","shoes","sneakers","collections","lifestyle","cali","suede","smash"],
+      "type":["men","shoes","sneakers","women","75","collections","lifestyle","cali","suede","smash",["suede"] ],
       "productName":"Clyde OG Sneakers",
       "cost":9876,
       "smTitle":"Taxes & Duties included",
@@ -1061,7 +1061,7 @@
     },
     {
       "id":65,
-      "type":["men","women","sale","shoes","sneakers","collections","lifestyle","riderPack"],
+      "type":["men","shoes","sneakers","sale","women","collections","lifestyle","riderPack",["riderPack"] ],
       "productName":"Rider FV Safari Sneakers",
       "cost":4727,
       "costLeft":7856,
@@ -1079,7 +1079,7 @@
     },
     {
       "id":66,
-      "type":["men","shoes","sneakers","collections","lifestyle","slipstream"],
+      "type":["men","shoes","sneakers","women","collections","lifestyle","slipstream",["slipstream"] ],
       "productName":"Slipstream Leather Sneakers",
       "cost":6587,
       "smTitle":"Taxes & Duties included",
@@ -1096,7 +1096,7 @@
     },
     {
       "id":67,
-      "type":["women","shoes","collections","lifestyle","mayze"],
+      "type":["women","shoes","collections","lifestyle","mayze",["mayze"] ],
       "productName":"Mayze Stack Chelsea Boot Women",
       "cost":6587,
       "smTitle":"Taxes & Duties included",
@@ -1112,7 +1112,7 @@
     },
     {
       "id":68,
-      "type":["women","shoes","sneakers","collections","lifestyle","davido"],
+      "type":["women","shoes","sneakers","collections","lifestyle","davido",["davido"] ],
       "productName":"R78 Voyage Women's Trainers",
       "cost":7920,
       "smTitle":"Taxes & Duties included",
@@ -1128,7 +1128,7 @@
     },
     {
       "id":69,
-      "type":["men","women","shoes","sneakers","collections","lifestyle","cali","suede","smash"],
+      "type":["men","shoes","sneakers","women","collections","lifestyle","cali","suede","smash",["smash"] ],
       "productName":"Graviton Trainers",
       "cost":8763,
       "smTitle":"Taxes & Duties included",
@@ -1144,7 +1144,7 @@
     },
     {
       "id":70,
-      "type":["men","women","sale","shoes","sneakers","sports","running","nitro"],
+      "type":["men","shoes","sneakers","women","sale","roodRunning","sports","running","nitro",["roodRunning"] ],
       "productName":"All Day Active Sneakers",
       "cost":2385,
       "costLeft":4635,
@@ -1161,7 +1161,7 @@
     },
     {
       "id":71,
-      "type":["men","clothing","hoodie","women","collections","ami"],
+      "type":["women","clothing","hoodie","man","collections","select","ami",["ami"] ],
       "productName":"PUMA x AMI Hoodie",
       "cost":9867,
       "smTitle":"Taxes & Duties included",
@@ -1177,7 +1177,7 @@
     },
     {
       "id":72,
-      "type":["men","hoodie","sale","clothing","sports","training","running","nitro"],
+      "type":["men","clothing","hoodie","sale","new","sports","training","running","nitro",["hoodie"] ],
       "productName":"Evostripe Hoodie Men",
       "cost":2716,
       "costLeft":3599,
@@ -1194,7 +1194,7 @@
     },
     {
       "id":73,
-      "type":["men","women","sale","clothing","jackets","hoodie","sports","motorSport","porscheDesign","porscheLegacy"],
+      "type":["men","clothing","jackets","women","hoodie","sports","motorSport","porscheDesign","porscheLegacy",["porscheLegacy"] ],
       "productName":"Porsche Legacy Hooded Motorsport Sweat Jacket Men",
       "cost":4749,
       "costLeft":5699,
@@ -1211,7 +1211,7 @@
     },
     {
       "id":74,
-      "type":["men","hoodie","sale","clothing","sports","training","jackets","motorSport","mercedesAmg"],
+      "type":["men","clothing","jackets","hoodie","sports","training","sale","sports","motorSport","mercedesAmg",["mercedesAmg"] ],
       "productName":"Mercedes-AMG Petronas Motorsport Formula One MT7 Track Jacket Men",
       "cost":3767,
       "costLeft":5697,
@@ -1228,7 +1228,7 @@
     },
     {
       "id":75,
-      "type":["men","hoodie","sale","clothing","sports","training","running","sports","jackets","motorSport","bmw"],
+      "type":["men","clothing","jackets","hoodie","sale","training","running","sports","motorSport","bmw",["bmw"] ],
       "productName":"BMW M Motorsport Hooded Sweat Jacket Men",
       "cost":5674,
       "costLeft":6836,
@@ -1245,7 +1245,7 @@
     },
     {
       "id":76,
-      "type":["men","hoodie","sale","clothing","collections","select","trinomic"],
+      "type":["men","clothing","hoodie","sale","collections","select","trinomic",["hoodie","men"] ],
       "productName":"SWxP Graphic Hoodie Men",
       "cost":7623,
       "costLeft":9856,
@@ -1262,7 +1262,7 @@
     },
     {
       "id":77,
-      "type":["men","hoodie","clothing","women","collections","select","ami","trending" ],
+      "type":["women","clothing","hoodie","men","collections","select","ami","trending",["ami"]  ],
       "productName":"PUMA x AMI Hoodie",
       "cost":6784,
       "smTitle":"Taxes & Duties included",
@@ -1278,7 +1278,7 @@
     },
     {
       "id":78,
-      "type":["men","hoodie","sale","clothing","sports","running","women","collections"],
+      "type":["men","clothing","hoodie","sale","sports","running","women","collections","hoodie",["hoodie","men"]],
       "productName":"Iconic T7 Men's Hoodie",
       "cost":7432,
       "costLeft":8736,
@@ -1295,7 +1295,7 @@
     },
     {
       "id":79,
-      "type":["men","sports","clothing","training","running","nitro","jackets","trending" ],
+      "type":["men","clothing","jackets","hoodie","training","running","nitro","trending" ,["hoodie","men"]  ],
       "productName":"Evostripe Full-Zip Hoodie Men",
       "cost":2354,
       "smTitle":"Taxes & Duties included",
@@ -1311,7 +1311,7 @@
     },
     {
       "id":80,
-      "type":["men","shirts","sale","clothing","sports","fitness","modest","running","nitro","training"],
+      "type":["men","clothing","jerseys","sale","sports","shirts","fitness","modest","running","nitro","training",["running","men"]],
       "productName":"Favourite Short Sleeve Men's Running Tee",
       "cost":2329,
       "costLeft":3129,
@@ -1328,7 +1328,7 @@
     },
     {
       "id":81,
-      "type":["men","shirts","sale","clothing","sports","fitness","modest","running","nitro","training"],
+      "type":["men","clothing","shirts","sale","classic","sports","fitness","modest","running","nitro","training",["shirts","men"]],
       "productName":"Classics Men's Logo Tee",
       "cost":1344,
       "costLeft":2159,
@@ -1346,7 +1346,7 @@
     },
     {
       "id":82,
-      "type":["men","shirts","clothing","sports","fitness","modest","running","nitro","training","trending" ],
+      "type":["men","clothing","training","shirts","sports","fitness","modest","running","nitro","training","trending",["running","training","shirts"] ],
       "productName":"PUMA Fit Ultrabreathe Training Tee Men",
       "cost":2534,
       "smTitle":"Taxes & Duties included",
@@ -1362,7 +1362,7 @@
     },
     {
       "id":83,
-      "type":["men","jackets","sale","clothing","collections","select","mmq","lifestyle","davido","trending" ],
+      "type":["men","clothing","jackets","sale","collections","select","mmq","lifestyle","davido","trending",["mmq"]],
       "productName":"T7 Printed Track Jacket Men",
       "cost":2734,
       "costLeft":3534,
@@ -1379,7 +1379,7 @@
     },
     {
       "id":84,
-      "type":["men","jackets","sale","clothing","sports","motorSport","ferrari"],
+      "type":["men","clothing","jackets","sale","clothing","sports","motorSport","ferrari",["ferrari"]],
       "productName":"Scuderia Ferrari Race MT7 Track Jacket Men",
       "cost":2374,
       "costLeft":4654,
@@ -1396,7 +1396,7 @@
     },
     {
       "id":85,
-      "type":["men","women","shirts","jackets","collections","select","mmq","clothing","sports","fitness","modest","training","trending" ],
+      "type":["men","women","shirts","jackets","collections","select","mmq","clothing","sports","fitness","modest","training","trending",["mmq"] ],
       "productName":"LUXE SPORT Gilet",
       "cost":3727,
       "smTitle":"Taxes & Duties included",
@@ -1412,7 +1412,7 @@
     },
     {
       "id":86,
-      "type":["men","women","shirts","jackets","collections","select","mmq","clothing","trending" ],
+      "type":["men","women","shirts","jackets","collections","select","mmq","clothing","trending",["mmq"] ],
       "productName":"MMQ Harrington Jacket",
       "cost":8327,
       "smTitle":"Taxes & Duties included",
@@ -1428,7 +1428,7 @@
     },
     {
       "id":87,
-      "type":["men","shirts","sale","collections","lifestyle","davido","polo","clothing"],
+      "type":["men","shirts","sale","collections","lifestyle","davido","polo","clothing",["polo"]],
       "productName":"Downtown Velour Long Sleeve Polo Men",
       "cost":3627,
       "costLeft":5191,
@@ -1445,7 +1445,7 @@
     },
     {
       "id":88,
-      "type":["men","shirts","clothing","sports","football","footballClubs","egypt"],
+      "type":["men","shirts","clothing","sports","football","footballClubs","egypt",["egypt"]],
       "productName":"Egypt Home 22/23 Replica Jersey Men",
       "cost":4020,
       "smTitle":"Taxes & Duties included",
@@ -1461,7 +1461,7 @@
     },
     {
       "id":89,
-      "type":["men","women","hoodie","collections","lifestyle","spongeBob","clothing","trending" ],
+      "type":["men","women","hoodie","collections","lifestyle","spongeBob","clothing","trending",["spongeBob"] ],
       "productName":"PUMA x SPONGEBOB Hoodie Men",
       "cost":4320,
       "smTitle":"Taxes & Duties included",
@@ -1477,7 +1477,7 @@
     },
     {
       "id":90,
-      "type":["men","women","shirts","collections","select","pam","clothing"],
+      "type":["men","women","shirts","collections","select","pam","clothing",["pam"] ],
       "productName":"PUMA x PERKS AND MINI Printed Tee Men",
       "cost":3620,
       "smTitle":"Taxes & Duties included",
@@ -1493,7 +1493,7 @@
     },
     {
       "id":91,
-      "type":["women","shirts","sports","football","footballApparel","training","clothing"],
+      "type":["women","shirts","sports","football","footballApparel","training","clothing",["training","woman"] ],
       "productName":"individualBLAZE Quarter-Zip Football Top Women",
       "cost":3479,
       "solid":true,
@@ -1510,7 +1510,7 @@
     },
     {
       "id":92,
-      "type":["women","shirts","sports","yoga","fitness","gem","training","clothing"],
+      "type":["women","shirts","sports","yoga","fitness","gem","training","clothing",["training","woman"] ],
       "productName":"Nova Shine Training Sweatshirt Women",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -1526,7 +1526,7 @@
     },
     {
       "id":93,
-      "type":["women","shirts","sports","training","yoga","running","nitro","fitness","clothing"],
+      "type":["women","shirts","sports","training","yoga","running","nitro","fitness","clothing",["running","woman","clothing"] ],
       "productName":"SEASONS Trail Running Half-Zip Pullover Women",
       "cost":3894,
       "smTitle":"Taxes & Duties included",
@@ -1542,7 +1542,7 @@
     },
     {
       "id":94,
-      "type":["women","hoodie","collections","select","trinomic","clothing"],
+      "type":["women","hoodie","collections","select","trinomic","clothing",["hoodie","woman"] ],
       "productName":"Classics Oversized Hoodie Women",
       "cost":3689,
       "smTitle":"Taxes & Duties included",
@@ -1558,7 +1558,7 @@
     },
     {
       "id":95,
-      "type":["women","hoodie","sale","collections","select","inland","clothing"],
+      "type":["women","hoodie","sale","collections","select","inland","clothing",["inland"] ],
       "productName":"INLAND Hoodie Women",
       "cost":4677,
       "costLeft":5142,
@@ -1575,7 +1575,7 @@
     },
     {
       "id":96,
-      "type":["women","sale","jackets","collections","lifestyle","vogue","clothing"],
+      "type":["women","sale","jackets","collections","lifestyle","vogue","clothing",["vogue"] ],
       "productName":"PUMA x VOGUE Puffer Jacket Women",
       "cost":7844,
       "costLeft":9864,
@@ -1592,7 +1592,7 @@
     },
     {
       "id":97,
-      "type":["women","jackets","hoodie","sports","running","training","fitness","modest","clothing","trending" ],
+      "type":["women","jackets","hoodie","sports","running","training","fitness","modest","clothing","trending",["hoodie","women"]  ],
       "productName":"Power Tape Full-Zip Hoodie Women",
       "cost":2453,
       "smTitle":"Taxes & Duties included",
@@ -1608,7 +1608,7 @@
     },
     {
       "id":98,
-      "type":["women","shirts","hoodie","tracksuit","collections","select","inland","clothing"],
+      "type":["women","shirts","hoodie","new","tracksuit","collections","select","inland","clothing",["inland"] ],
       "productName":"Loungewear Suit Women",
       "cost":3264,
       "smTitle":"Taxes & Duties included",
@@ -1624,7 +1624,7 @@
     },
     {
       "id":99,
-      "type":["women","jackets","hoodie","tracksuit","sports","running","training","fitness","modest","gem","nitro","clothing","trending" ],
+      "type":["women","jackets","hoodie","classic","tracksuit","sports","running","training","fitness","modest","gem","nitro","clothing","trending",["woman","tracksuit"]  ],
       "productName":"Classic Hooded Tracksuit Women",
       "cost":2543,
       "smTitle":"Taxes & Duties included",
@@ -1640,7 +1640,7 @@
     },
     {
       "id":100,
-      "type":["women","sale","dresses","clothing"],
+      "type":["women","sale","dresses","clothing",["dresses"] ],
       "productName":"Classics Tee Dress Women",
       "cost":2764,
       "costLeft":3829,
@@ -1657,7 +1657,7 @@
     },
     {
       "id":101,
-      "type":["women","sale","bras","pants","clothing"],
+      "type":["women","sale","bras","pants","clothing",["woman","leggings"] ],
       "productName":"Dare To Woven Pants Women",
       "cost":2543,
       "costLeft":3756,
@@ -1674,7 +1674,7 @@
     },
     {
       "id":102,
-      "type":["women","shirts","sports","basketball","training","basketballapparel","clothing"],
+      "type":["women","shirts","sports","basketball","training","basketballapparel","clothing",["training","women"] ],
       "productName":"Strong Side Basketball Tee Women",
       "cost":3457,
       "smTitle":"Taxes & Duties included",
@@ -1691,7 +1691,7 @@
     },
     {
       "id":103,
-      "type":["women","sale","shirts","sports","running","training","fitness","modest","clothing"],
+      "type":["women","sale","shirts","sports","running","training","fitness","modest","clothing",["shirts","woman"] ],
       "productName":"Essentials Logo Heather Women's Tee",
       "cost":1543,
       "costLeft":2143,
@@ -1708,7 +1708,7 @@
     },
     {
       "id":104,
-      "type":["women","shirts","collections","lifestyle","ragged","clothing"],
+      "type":["women","shirts","collections","lifestyle","ragged","clothing",["shirts","woman"] ],
       "productName":"Power Deco Glam Tee Women",
       "cost":2432,
       "smTitle":"Taxes & Duties included",
@@ -1724,7 +1724,7 @@
     },
     {
       "id":105,
-      "type":["women","shirts","sale","collections","select","inland","clothing"],
+      "type":["women","shirts","sale","collections","select","inland","clothing",["inland"] ],
       "productName":"INLAND Cropped Long Sleeve Tight Tee Women",
       "cost":3552,
       "costLeft":4276,
@@ -1741,7 +1741,7 @@
     },
     {
       "id":106,
-      "type":["women","training","modest","sports","running","running","fitness","tracksuit","gem","nitro","yoga","clothing"],
+      "type":["women","training","modest","sports","running","running","fitness","tracksuit","gem","nitro","yoga","clothing",["training","women"] ],
       "productName":"Modest Activewear Long Sleeve Training Tee Women",
       "cost":3428,
       "smTitle":"Taxes & Duties included",
@@ -1758,7 +1758,7 @@
     },
     {
       "id":107,
-      "type":["women","hoodie","sports","running","training","tracksuit","clothing"],
+      "type":["women","hoodie","sports","running","training","tracksuit","clothing",["hoodie","woman"] ],
       "productName":"Iconic T7 Women's Track Jacket",
       "cost":4368,
       "smTitle":"Taxes & Duties included",
@@ -1774,7 +1774,7 @@
     },
     {
       "id":108,
-      "type":["women","shirts","sale","hoodie","collections","select","mmq","clothing"],
+      "type":["women","shirts","sale","hoodie","collections","select","mmq","clothing",["mmq"] ],
       "productName":"MMQ Sweatshirt",
       "cost":4255,
       "costLeft":7392,
@@ -1791,7 +1791,7 @@
     },
     {
       "id":109,
-      "type":["women","jackets","sale","collections","select","inland","clothing","trending" ],
+      "type":["women","jackets","sale","collections","select","inland","clothing","trending",["inland"]  ],
       "productName":"T7 Printed Track Jacket Women",
       "cost":3762,
       "costLeft":4862,
@@ -1808,7 +1808,7 @@
     },
     {
       "id":110,
-      "type":["women","pants","sale","collections","lifestyle","ragged","clothing"],
+      "type":["women","pants","sale","collections","lifestyle","ragged","clothing",["woman","leggings"] ],
       "productName":"PUMA x THE RAGGED PRIEST Flared Pants Women",
       "cost":3872,
       "costLeft":5372,
@@ -1826,7 +1826,7 @@
     },
     {
       "id":111,
-      "type":["women","man","accessories","hats"],
+      "type":["women","man","accessories","hats",["hats","men"] ],
       "productName":"Metal Cat Cap",
       "cost":1283,
       "smTitle":"Taxes & Duties included",
@@ -1842,7 +1842,7 @@
     },
     {
       "id":112,
-      "type":["women","man","sale","accessories","motorSport","sports","porscheLegacy","porscheDesign","bags","backPacks"],
+      "type":["women","man","sale","accessories","motorSport","sports","porscheLegacy","porscheDesign","bags","backPacks",["bags","men"] ],
       "productName":"Porsche Legacy Backpack",
       "cost":3726,
       "costLeft":4599,
@@ -1859,7 +1859,7 @@
     },
     {
       "id":113,
-      "type":["women","man","accessories","motorSport","sports","mercedesAmg","bags","backPacks","trending" ],
+      "type":["women","man","accessories","motorSport","sports","mercedesAmg","bags","backPacks","trending",["backPacks","men"]  ],
       "productName":"Mercedes-AMG Petronas Motorsport Backpack",
       "cost":4749,
       "smTitle":"Taxes & Duties included",
@@ -1875,7 +1875,7 @@
     },
     {
       "id":114,
-      "type":["women","man","sale","accessories","sports","basketballapparel","basketball","bags"],
+      "type":["women","man","sale","accessories","sports","basketballapparel","basketball","bags",["bags","men"] ],
       "productName":"Basketball Pro Duffel Bag",
       "cost":2918,
       "costLeft":4297,
@@ -1892,7 +1892,7 @@
     },
     {
       "id":115,
-      "type":["women","man","sale","accessories","collections","select","ami","bags","backPacks"],
+      "type":["women","man","sale","accessories","collections","select","ami","bags","backPacks",["ami"] ],
       "productName":"PUMA x AMI Waistbag",
       "cost":4674,
       "costLeft":5836,
@@ -1909,7 +1909,7 @@
     },
     {
       "id":116,
-      "type":["women","man","sale","accessories","collections","select","trackmeet","bags","backPacks"],
+      "type":["women","man","sale","accessories","collections","select","trackmeet","bags","backPacks",["bags"] ],
       "productName":"Fast Track Portable Bag",
       "cost":2938,
       "costLeft":3873,
@@ -1926,7 +1926,7 @@
     },
     {
       "id":117,
-      "type":["women","man","collections","select","ami","bags","backPacks","trending" ],
+      "type":["women","man","collections","select","ami","bags","backPacks","trending",["ami"]  ],
       "productName":"PUMA x AMI Backpack",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -1942,7 +1942,7 @@
     },
     {
       "id":118,
-      "type":["women","man","accessories","hats","football","olumpique","sports","trending" ],
+      "type":["women","man","accessories","hats","football","olumpique","sports","trending",["olumpique"]   ],
       "productName":"Olympique de Marseille Bucket Hat",
       "cost":1432,
       "smTitle":"Taxes & Duties included",
@@ -1958,7 +1958,7 @@
     },
     {
       "id":119,
-      "type":["man","accessories","hats","trending" ],
+      "type":["man","accessories","hats","trending" ,["hats","men"]  ],
       "productName":"Prime Trapper Hat",
       "cost":1095,
       "smTitle":"Taxes & Duties included",
@@ -1974,7 +1974,7 @@
     },
     {
       "id":120,
-      "type":["women","man","sale","accessories","hats","collections","select","inland"],
+      "type":["women","man","sale","accessories","hats","collections","select","inland",["hats","woman"]  ],
       "productName":"Archive Heather Beanie",
       "cost":1329,
       "costLeft":2199,
@@ -1985,13 +1985,13 @@
       "imageOne2":"./assets/image/accesories/10b.webp",
       "imageOne3":"./assets/image/accesories/10c.webp",
       "imageOne4":"./assets/image/accesories/10d.webp",
-      "imageOne5":"./assets/image/accesories/10e.webp",
+      "imageOne5":"./assets/image/accesories/10e.jpg",
       "imageOne6":"./assets/image/accesories/10f.webp",
       "story":"Get winterized. Your perfect cold-weather staple, this PUMA Archive Heather Beanie features a warm double-layered design for maximum comfort."
     },
     {
       "id":121,
-      "type":["women","man","sale","accessories","sports","hats","basketball","basketballapparel"],
+      "type":["women","man","sale","accessories","sports","hats","basketball","basketballapparel",["hats","men"]  ],
       "productName":"Basketball Trucker Cap",
       "cost":1344,
       "costLeft":1344,
@@ -2009,7 +2009,7 @@
     },
     {
       "id":122,
-      "type":["man","accessories","motorSport","sports","ferrari","bags","backPacks","trending" ],
+      "type":["man","accessories","motorSport","sports","ferrari","bags","backPacks","trending",["ferrari"]],
       "productName":"Scuderia Ferrari SPTWR Race Portable Bag",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -2025,7 +2025,7 @@
     },
     {
       "id":123,
-      "type":["women","sale","accessories","wallets","bags","trending" ],
+      "type":["women","sale","accessories","wallets","bags","trending",["bags","women"]   ],
       "productName":"PUMA Sense Multi Pouch Bag",
       "cost":3479,
       "costLeft":4479,
@@ -2042,7 +2042,7 @@
     },
     {
       "id":124,
-      "type":["women","accessories","wallets","bags"],
+      "type":["women","accessories","wallets","bags",["bags","women"]],
       "productName":"PUMA Sense Crossbody Bag",
       "cost":3428,
       "smTitle":"Taxes & Duties included",
@@ -2058,7 +2058,7 @@
     },
     {
       "id":125,
-      "type":["women","accessories","wallets","bags"],
+      "type":["women","accessories","wallets","bags",["bags","women"]],
       "productName":"PUMA Sense Grip Bag",
       "cost":6259,
       "smTitle":"Taxes & Duties included",
@@ -2074,7 +2074,7 @@
     },
     {
       "id":126,
-      "type":["women","accessories","backPacks","sports","fitness","gemAcc","bags","trending" ],
+      "type":["women","accessories","75","backPacks","sports","fitness","gemAcc","bags","trending",["bags","women"] ],
       "productName":"Fundamentals Sports Bag S",
       "cost":1625,
       "smTitle":"Taxes & Duties included",
@@ -2090,7 +2090,7 @@
     },
     {
       "id":127,
-      "type":["women","sale","man","accessories","backPacks","bags","boys","girls","kids"],
+      "type":["women","sale","man","new","accessories","backPacks","bags","boys","girls","kids",["bags","kids"]],
       "productName":"Phase Backpack",
       "cost":3677,
       "costLeft":4677,
@@ -2107,7 +2107,7 @@
     },
     {
       "id":128,
-      "type":["women","sale","man","accessories","hats","classic"],
+      "type":["women","sale","man","accessories","hats","classic",["hats","women"]],
       "productName":"Classics Archive Mid Fit Beanie",
       "cost":1827,
       "costLeft":2187,
@@ -2124,7 +2124,7 @@
     },
     {
       "id":129,
-      "type":["women","sale","kids","boys","girls","accessories","backPacks","bags","trending" ],
+      "type":["women","sale","kids","boys","girls","accessories","backPacks","bags","trending",["backPacks","women"] ],
       "productName":"Patch Backpack",
       "cost":1928,
       "costLeft":2928,
@@ -2141,7 +2141,7 @@
     },
     {
       "id":130,
-      "type":["women","kids","boys","man","girls","accessories","hats","sports","running","training","fitness","yoga","bags"],
+      "type":["women","kids","boys","man","girls","accessories","hats","sports","running","training","fitness","yoga","bags",["hats","women"]],
       "productName":"Lightweight Running Cap",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2157,7 +2157,7 @@
     },
     {
       "id":131,
-      "type":["women","accessories","bags","trending" ],
+      "type":["women","accessories","bags","trending","new",["bags","women"] ],
       "productName":"Prime Classics S Mini Hobo Bag",
       "cost":1030,
       "smTitle":"Taxes & Duties included",
@@ -2173,7 +2173,7 @@
     },
     {
       "id":132,
-      "type":["women","sale","kids","girls","accessories","hats"],
+      "type":["women","sale","kids","girls","accessories","hats",["hats","women"]],
       "productName":"Woven Baseball Cap",
       "cost":1928,
       "costLeft":2918,
@@ -2190,7 +2190,7 @@
     },
     {
       "id":133,
-      "type":["women","sale","kids","girls","accessories","bags"],
+      "type":["women","sale","kids","girls","accessories","bags",["bags","women"]],
       "productName":"Core Her Compact Cross Body Bag",
       "cost":1827,
       "costLeft":2654,
@@ -2207,7 +2207,7 @@
     },
     {
       "id":134,
-      "type":["women","man","accessories","sports","training","bags"],
+      "type":["women","man","accessories","sports","training","bags",["bags","women"]],
       "productName":"Safari Glam Training Shopper",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -2224,7 +2224,7 @@
     },
     {
       "id":135,
-      "type":["women","sale","kids","man","boys","girls","accessories","backPacks","bags"],
+      "type":["women","sale","kids","man","boys","girls","accessories","backPacks","bags",["bags","kids"]],
       "productName":"Academy Backpack",
       "cost":4736,
       "costLeft":5816,
@@ -2241,7 +2241,7 @@
     },
     {
       "id":136,
-      "type":["women","sale","man","kids","boys","girls","sports","training","yoga","fitness","gem","gemAcc"],
+      "type":["women","sale","man","kids","boys","girls","sports","training","yoga","fitness","gem","gemAcc",["gemAcc"]],
       "productName":"Studio Yoga Mat Training Bag",
       "cost":2265,
       "costLeft":2905,
@@ -2258,7 +2258,7 @@
     },
     {
       "id":137,
-      "type":["women","man","shoes","sports","football","footballBoots"],
+      "type":["women","man","shoes","sports","football","footballBoots",["sports","shoes"] ],
       "productName":"FUTURE Match FG/AG Football Boots Women",
       "cost":8735,
       "smTitle":"Taxes & Duties included",
@@ -2274,7 +2274,7 @@
     },
     {
       "id":138,
-      "type":["women","sale","man","shoes","sports","football","footballBoots","trending" ],
+      "type":["women","sale","man","shoes","new","sports","football","footballBoots","trending",["sports","shoes"]  ],
       "productName":"ULTRA ULTIMATE FG/AG Football Boots",
       "cost":10928,
       "costLeft":14599,
@@ -2291,7 +2291,7 @@
     },
     {
       "id":139,
-      "type":["man","sale","clothing","sports","shirts","football","training","footballApparel","collections","lifestyle","njr"],
+      "type":["man","sale","clothing","sports","shirts","football","training","footballApparel","collections","lifestyle","njr",["njr"] ],
       "productName":"Neymar Jr 24/7 Football Tee Men",
       "cost":2749,
       "costLeft":3849,
@@ -2308,7 +2308,7 @@
     },
     {
       "id":140,
-      "type":["man","shirts","jerseys","clothing","training","sports","football","nationalTeam"],
+      "type":["man","shirts","jerseys","clothing","training","sports","football","nationalTeam",["nationalTeam"] ],
       "productName":"Senegal Away 22/23 Replica Jersey Men",
       "cost":5367,
       "smTitle":"Taxes & Duties included",
@@ -2324,7 +2324,7 @@
     },
     {
       "id":141,
-      "type":["man","sale","clothing","jerseys","shirts","sports","football","footballApparel","training"],
+      "type":["man","sale","clothing","jerseys","shirts","sports","football","footballApparel","training",["jersey","men"] ],
       "productName":"individualCUP Quarter-Zip Football Top Men",
       "cost":3927,
       "costLeft":5836,
@@ -2341,7 +2341,7 @@
     },
     {
       "id":142,
-      "type":["man","clothing","sale","shirts","sports","training","running","football","footballBoots"],
+      "type":["man","clothing","sale","shirts","sports","training","running","football","footballBoots",["training","clothing","men"] ],
       "productName":"CLOUDSPUN Short Sleeve Training Tee Men",
       "cost":1726,
       "costLeft":2928,
@@ -2358,7 +2358,7 @@
     },
     {
       "id":143,
-      "type":["man","clothing","shirts","sports","training","running","trending" ],
+      "type":["man","clothing","shirts","sports","training","running","trending",["training","clothing","men"] ],
       "productName":"Fit Short Sleeve Training Tee Men",
       "cost":1929,
       "smTitle":"Taxes & Duties included",
@@ -2375,7 +2375,7 @@
     },
     {
       "id":144,
-      "type":["man","clothing","shirts","sports","training","running","football","trending" ],
+      "type":["man","clothing","shirts","sports","training","running","football","trending",["training","shirts","men"] ],
       "productName":"Favourite Short Sleeve Men's Running Tee",
       "cost":2020,
       "smTitle":"Taxes & Duties included",
@@ -2391,7 +2391,7 @@
     },
     {
       "id":145,
-      "type":["man","clothing","sale","shirts","sports","training","running","football"],
+      "type":["man","clothing","sale","shirts","sports","training","running","football",["running","shirts","men"]],
       "productName":"RUN FAVOURITE Short Sleeve Running Tee Men",
       "cost":3298,
       "costLeft":4297,
@@ -2408,7 +2408,7 @@
     },
     {
       "id":146,
-      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel"],
+      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","clothing","men"]],
       "productName":"Box Out Short Sleeve Basketball Tee 1 Men",
       "cost":2918,
       "costLeft":4399,
@@ -2425,7 +2425,7 @@
     },
     {
       "id":147,
-      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel"],
+      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","shirts","men"]],
       "productName":"Perimeter Basketball Tee",
       "cost":2344,
       "costLeft":3844,
@@ -2443,7 +2443,7 @@
     },
     {
       "id":148,
-      "type":["man","women","glovs","accessories","sports","football","footballClubs","footballApparel","egypt","morocco","trending" ],
+      "type":["man","women","glovs","accessories","new","sports","football","footballClubs","footballApparel","egypt","morocco","trending",["gloves","sports"] ],
       "productName":"FUTURE Ultimate Negative Cut Football Goalkeeper Gloves",
       "cost":5827,
       "smTitle":"Taxes & Duties included",
@@ -2459,7 +2459,7 @@
     },
     {
       "id":149,
-      "type":["man","women","glovs","accessories","sports","football","footballClubs","footballApparel","egypt","morocco","milan","olumpique","trending" ],
+      "type":["man","women","glovs","accessories","sports","football","footballClubs","footballApparel","egypt","morocco","milan","olumpique","trending",["gloves","sports"]  ],
       "productName":"ULTRA Grip 4 RC Goalkeeper Gloves",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2475,7 +2475,7 @@
     },
     {
       "id":150,
-      "type":["man","clothing","shirts","sports","training","yoga","fitness"],
+      "type":["man","clothing","shirts","sports","training","yoga","fitness",["yoga","men"] ],
       "productName":"Studio Ultramove Training Joggers Men",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -2492,7 +2492,7 @@
     },
     {
       "id":152,
-      "type":["man","clothing","shirts","jerseys","sports","football","nationalTeam","footballClubs","egypt","trending" ],
+      "type":["man","clothing","shirts","jerseys","sports","football","nationalTeam","footballClubs","egypt","trending",["egypt"]  ],
       "productName":"Egypt Away 22/23 Replica Jersey Men",
       "cost":7653,
       "smTitle":"Taxes & Duties included",
@@ -2508,7 +2508,7 @@
     },
     {
       "id":153,
-      "type":["man","clothing","shirts","training","yoga","fitness","sports"],
+      "type":["man","clothing","shirts","training","yoga","fitness","sports",["short","men"] ],
       "productName":"M Studio 2-in-1 Training Shorts Men",
       "cost":2827,
       "smTitle":"Taxes & Duties included",
@@ -2524,7 +2524,7 @@
     },
     {
       "id":154,
-      "type":["man","clothing","shirts","training","yoga","fitness","sports","trending" ],
+      "type":["man","clothing","shirts","training","yoga","fitness","sports","trending",["training","men"]  ],
       "productName":"Train CLOUDSPUN Training Tee Men",
       "cost":2983,
       "smTitle":"Taxes & Duties included",
@@ -2541,7 +2541,7 @@
     },
     {
       "id":155,
-      "type":["women","leggings","sale","pants","training","yoga","running","fitness","gem","sports","trending" ],
+      "type":["women","leggings","sale","pants","training","yoga","running","fitness","gem","sports","trending" ,["leggings"] ],
       "productName":"Evostripe Leggings Women",
       "cost":1826,
       "costLeft":2816,
@@ -2558,7 +2558,7 @@
     },
     {
       "id":156,
-      "type":["women","clothing","jerseys","shirts","football","footballClubs","milan","sports"],
+      "type":["women","clothing","jerseys","shirts","football","footballClubs","milan","sports",["milan"] ],
       "productName":"A.C. Milan Home 22/23 Replica Jersey Women",
       "cost":4837,
       "smTitle":"Taxes & Duties included",
@@ -2574,7 +2574,7 @@
     },
     {
       "id":157,
-      "type":["women","clothing","shirts","training","running","gem","yoga","fitness","sports","trending" ],
+      "type":["women","clothing","shirts","training","running","gem","yoga","fitness","sports","trending" ,["gem","clothing","women"] ],
       "productName":"Favourite Heather Cat Training Tee Women",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -2590,7 +2590,7 @@
     },
     {
       "id":158,
-      "type":["women","clothing","shirts","training","running","yoga","gem","fitness","sports","trending" ],
+      "type":["women","clothing","shirts","training","running","yoga","gem","fitness","sports","trending",["gem","shirts","women"]  ],
       "productName":"Studio Yogini Lite Long Sleeved Training Sweatshirt Women",
       "cost":1625,
       "smTitle":"Taxes & Duties included",
@@ -2606,7 +2606,7 @@
     },
     {
       "id":159,
-      "type":["women","clothing","sale","shirts","training","running","yoga","gem","fitness","sports","trending" ],
+      "type":["women","clothing","sale","shirts","training","running","yoga","gem","fitness","sports","trending",["gem","shirts","women"] ],
       "productName":"Studio Foundation Women's Training Tee",
       "cost":1029,
       "costLeft":2291,
@@ -2623,7 +2623,7 @@
     },
     {
       "id":160,
-      "type":["women","clothing","sale","shirts","training","football","footballApparel","sports"],
+      "type":["women","clothing","sale","shirts","training","football","footballApparel","sports",["training","shirts","women"]],
       "productName":"individualBLAZE Quarter-Zip Football Top Women",
       "cost":3827,
       "costLeft":5187,
@@ -2640,7 +2640,7 @@
     },
     {
       "id":161,
-      "type":["women","clothing","trending" ,"jerseys","shirts","football","footballClubs","sports"],
+      "type":["women","clothing","trending" ,"jerseys","shirts","football","footballClubs","manchester","sports",["manchester"] ],
       "productName":"Manchester City F.C. Home 22/23 Replica Jersey Women",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -2656,7 +2656,7 @@
     },
     {
       "id":162,
-      "type":["women","clothing","shirts","training","running","nitro","sports"],
+      "type":["women","clothing","shirts","training","running","nitro","sports",["training","woman","clothing"]],
       "productName":"Favourite Short Sleeve Women's Running Tee",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2672,7 +2672,7 @@
     },
     {
       "id":163,
-      "type":["women","clothing","trending" ,"jerseys","shirts","training","running","yoga","gem","fitness","nitro","sports"],
+      "type":["women","clothing","trending" ,"jerseys","shirts","training","running","yoga","gem","fitness","nitro","sports",["gem","yoga","women"]],
       "productName":"Prime Classics S Mini Hobo Bag",
       "cost":1030,
       "smTitle":"Taxes & Duties included",
@@ -2688,7 +2688,7 @@
     },
     {
       "id":164,
-      "type":["women","shoes","sale","roodRunning","training","running","gem","fitness","sports"],
+      "type":["women","shoes","sale","roodRunning","training","running","gem","fitness","sports",["running","shoes"]],
       "productName":"PWR XX NITRO Training Shoes Women",
       "cost":1928,
       "costLeft":2918,
@@ -2705,7 +2705,7 @@
     },
     {
       "id":165,
-      "type":["women","clothing","sale","jerseys","shirts","training","running","yoga","gem","fitness","sports"],
+      "type":["women","clothing","sale","jerseys","shirts","training","running","yoga","gem","fitness","sports",["woman","jerseys"] ],
       "productName":"Favourite Jersey Cat Training Tee Women",
       "cost":1827,
       "costLeft":2654,
@@ -2723,7 +2723,7 @@
     },
     {
       "id":166,
-      "type":["women","clothing","jerseys","shirts","training","running","yoga","gem","fitness","sports"],
+      "type":["women","clothing","jerseys","shirts","training","running","yoga","gem","fitness","sports",["woman","jerseys"]],
       "productName":"Fit Logo Training Tank Top Women",
       "cost":1726,
       "smTitle":"Taxes & Duties included",
@@ -2740,7 +2740,7 @@
     },
     {
       "id":167,
-      "type":["women","clothing","jerseys","shirts","football","footballClubs","sports"],
+      "type":["women","clothing","jerseys","shirts","football","footballClubs","sports",["footballClubs"]],
       "productName":"Borussia Dortmund Home 22/23 Replica Jersey Women",
       "cost":4736,
       "smTitle":"Taxes & Duties included",
@@ -2756,7 +2756,7 @@
     },
     {
       "id":168,
-      "type":["women","clothing","sale","leggings","training","running","yoga","gem","fitness","sports"],
+      "type":["women","clothing","sale","leggings","training","running","yoga","gem","fitness","sports",["leggings"]],
       "productName":"Nova Shine EVERSCULPT Training Leggings Women",
       "cost":2265,
       "costLeft":3295,
@@ -2773,7 +2773,7 @@
     },
     {
       "id":169,
-      "type":["women","man","shoes","trending" ,"collections","lifestyle","sustainable","motorSport","sports","ferrari"],
+      "type":["women","man","shoes","trending" ,"collections","lifestyle","sustainable","motorSport","sports","ferrari",["ferrari"]],
       "productName":"Scuderia Ferrari Drift Cat Decima Motorsport Shoes",
       "cost":8476,
       "smTitle":"Taxes & Duties included",
@@ -2789,7 +2789,7 @@
     },
     {
       "id":170,
-      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw"],
+      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport Drift Cat Decima Motorsport Shoes",
       "cost":7987,
       "smTitle":"Taxes & Duties included",
@@ -2805,7 +2805,7 @@
     },
     {
       "id":171,
-      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","mercedesAmg"],
+      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","mercedesAmg",["mercedesAmg"]],
       "productName":"Mercedes-AMG Petronas Motorsport Maco SL Motorsport Shoes",
       "cost":9887,
       "smTitle":"Taxes & Duties included",
@@ -2821,7 +2821,7 @@
     },
     {
       "id":172,
-      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw"],
+      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport SPEEDFUSION Motorsport Shoes",
       "cost":5887,
       "costLeft":7387,
@@ -2838,7 +2838,7 @@
     },
     {
       "id":173,
-      "type":["women","man","sale","shoes","sports","motorSport","collections","lifestyle","sustainable","mercedesAmg"],
+      "type":["women","man","sale","shoes","sports","motorSport","collections","lifestyle","sustainable","mercedesAmg",["mercedesAmg"]],
       "productName":"Mercedes-AMG Petronas Motorsport RS-X Motorsport Shoes",
       "cost":9887,
       "costLeft":11387,
@@ -2855,7 +2855,7 @@
     },
     {
       "id":174,
-      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","speedCat"],
+      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","speedCat",["suede"]],
       "productName":"PUMA x SPARCO SPEEDFUSION Driving Shoes",
       "cost":3987,
       "costLeft":6357,
@@ -2872,7 +2872,7 @@
     },
     {
       "id":175,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear"],
+      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Leadcat 2.0 Sandals",
       "cost":2987,
       "smTitle":"Taxes & Duties included",
@@ -2888,7 +2888,7 @@
     },
     {
       "id":176,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear"],
+      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
       "productName":"Shibui Cat Sandals",
       "cost":2362,
       "smTitle":"Taxes & Duties included",
@@ -2904,7 +2904,7 @@
     },
     {
       "id":177,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear"],
+      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
       "productName":"Royalcat Comfort Sandals",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -2920,7 +2920,7 @@
     },
     {
       "id":178,
-      "type":["women","man","accessories","bags","sports","motorSport","bmw"],
+      "type":["women","man","accessories","bags","sports","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport Waist Bag",
       "cost":2871,
       "smTitle":"Taxes & Duties included",
@@ -2936,7 +2936,7 @@
     },
     {
       "id":179,
-      "type":["women","man","trending" ,"kids","boys","girls","accessories","shoeCare","sports","othorSport","sportEquipment","fitness","gemAcc"],
+      "type":["women","man","trending" ,"kids","boys","girls","accessories","shoeCare","sports","othorSport","sportEquipment","fitness","gemAcc",["gemAcc"]],
       "productName":"PUMA Training Water Bottle",
       "cost":1928,
       "costLeft":2187,
@@ -2953,7 +2953,7 @@
     },
     {
       "id":180,
-      "type":["man","women","sale","kids","boys","girls","balls","accessories","shoeCare","sports","football","footballApparel"],
+      "type":["man","women","sale","kids","boys","girls","balls","sportEquipment","accessories","shoeCare","sports","football","footballApparel",["sportEquipment"] ],
       "productName":"Prestige Football",
       "cost":1293,
       "costLeft":2132,
@@ -2970,7 +2970,7 @@
     },
     {
       "id":181,
-      "type":["man","women","accessories","shoeCare","sports","football","footballApparel"],
+      "type":["man","women","accessories","shoeCare","sportEquipment","sports","football","footballApparel",["sportEquipment"] ],
       "productName":"ULTRA Flex Sleeve Football Shin Guards",
       "cost":5367,
       "smTitle":"Taxes & Duties included",
@@ -2986,7 +2986,7 @@
     },
     {
       "id":182,
-      "type":["man","women","sale","trending" ,"accessories","hats","sports","motorSport"],
+      "type":["man","women","sale","trending" ,"accessories","hats","sports","motorSport","bmw",["bmw"] ],
       "productName":"BMW M Motorsport BB Cap",
       "cost":3927,
       "costLeft":5836,
@@ -3003,7 +3003,7 @@
     },
     {
       "id":183,
-      "type":["man","women","sale","shoes","sandals","sports","othorSport","swimwear"],
+      "type":["man","women","sale","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Divecat v2 Lite Slide",
       "cost":1726,
       "costLeft":2928,
@@ -3020,7 +3020,7 @@
     },
     {
       "id":184,
-      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear"],
+      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Porsche Legacy Leadcat 2.0 Slides",
       "cost":3855,
       "smTitle":"Taxes & Duties included",
@@ -3036,7 +3036,7 @@
     },
     {
       "id":185,
-      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear"],
+      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Cool Cat 2.0 Flower Slides Women",
       "cost":5398,
       "smTitle":"Taxes & Duties included",
@@ -3052,7 +3052,7 @@
     },
     {
       "id":186,
-      "type":["man","clothing","sale","short","sports","football","footballClubs","milan"],
+      "type":["man","clothing","sale","short","sports","football","footballClubs","milan",["milan"] ],
       "productName":"A.C. Milan 22/23 Replica Shorts Men",
       "cost":2837,
       "costLeft":4297,
@@ -3069,7 +3069,7 @@
     },
     {
       "id":187,
-      "type":["man","women","sale","clothing","short","sports","training","running","nitro"],
+      "type":["man","women","sale","clothing","short","sports","training","running","nitro",["running","short"] ],
       "productName":"Run Split Running Shorts Men",
       "cost":2918,
       "costLeft":4399,
@@ -3086,7 +3086,7 @@
     },
     {
       "id":188,
-      "type":["man","clothing","sale","short","sports","training","running","nitro"],
+      "type":["man","clothing","sale","short","sports","training","running","nitro",["short","sports"] ],
       "productName":"Fandom Printed Shorts Men",
       "cost":2643,
       "costLeft":3844,
@@ -3104,7 +3104,7 @@
     },
     {
       "id":189,
-      "type":["man","clothing","trending" ,"basketball","basketballapparel","short","sports","training","running","nitro"],
+      "type":["man","clothing","trending" ,"basketball","basketballapparel","short","sports","training","running","nitro",["short","sports"] ],
       "productName":"Spin Move Basketball Shorts Men",
       "cost":2928,
       "smTitle":"Taxes & Duties included",
@@ -3120,7 +3120,7 @@
     },
     {
       "id":190,
-      "type":["man","clothing","trending" ,"short","sports","football","training","running","nitro"],
+      "type":["man","clothing","trending" ,"short","sports","football","training","running","nitro",["short","sports"]],
       "productName":"Run Favourite Velocity 7'' Running Shorts Men",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -3136,7 +3136,7 @@
     },
     {
       "id":191,
-      "type":["women","clothing","short","sports","football","training","running","nitro"],
+      "type":["women","clothing","short","sports","football","training","running","nitro",["short","women"] ],
       "productName":"T7 Woven Shorts Women",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -3153,7 +3153,7 @@
     },
     {
       "id":192,
-      "type":["women","trending" ,"clothing","leggings","short","sports"],
+      "type":["women","trending" ,"clothing","leggings","short","sports",["short","women"]],
       "productName":"Classics Women's Short Leggings",
       "cost":2917,
       "smTitle":"Taxes & Duties included",
@@ -3169,7 +3169,7 @@
     },
     {
       "id":193,
-      "type":["women","clothing","short","running","nitro","sports"],
+      "type":["women","clothing","short","running","nitro","sports",["short","women"]],
       "productName":"Active Youth Shorts",
       "cost":2827,
       "smTitle":"Taxes & Duties included",
@@ -3185,7 +3185,7 @@
     },
     {
       "id":194,
-      "type":["women","trending" ,"clothing","short","training","yoga","fitness","running","nitro","sports"],
+      "type":["women","trending" ,"clothing","short","training","yoga","fitness","running","nitro","sports",["short","women"]],
       "productName":"Run Favourite Woven 2-in-1 Running Shorts Women",
       "cost":2983,
       "smTitle":"Taxes & Duties included",
@@ -3201,7 +3201,7 @@
     },
     {
       "id":195,
-      "type":["women","trending" ,"sale","clothing","short","training","basketball","basketballapparel","sports"],
+      "type":["women","trending" ,"sale","clothing","short","training","basketball","basketballapparel","sports",["short","women"]],
       "productName":"Pivot Basketball Shorts Women",
       "cost":3928,
       "costLeft":6728,
@@ -3218,7 +3218,7 @@
     },
     {
       "id":196,
-      "type":["women","man","clothing","short","sports","running","nitro","collections","lifestyle","cocaCola"],
+      "type":["women","man","clothing","short","sports","running","nitro","collections","lifestyle","cocaCola",["cocaCola"]],
       "productName":"PUMA x COCA-COLA Shorts",
       "cost":4837,
       "smTitle":"Taxes & Duties included",
@@ -3234,7 +3234,7 @@
     },
     {
       "id":197,
-      "type":["women","trending" ,"man","clothing","short","sports","running","training","nitro","collections","lifestyle","njr"],
+      "type":["women","trending" ,"man","clothing","short","sports","running","training","nitro","collections","lifestyle","njr",["njr"]],
       "productName":"Neymar Jr 24/7 Football Shorts",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -3250,7 +3250,7 @@
     },
     {
       "id":198,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","football","footballApparel"],
+      "type":["man","trending" ,"clothing","shirts","jerseys","sports","football","footballApparel",["footballApparel"]],
       "productName":"individualCUP Football Jersey Men",
       "cost":1625,
       "smTitle":"Taxes & Duties included",
@@ -3266,7 +3266,7 @@
     },
     {
       "id":199,
-      "type":["man","trending","sale" ,"clothing","shirts","jerseys","sports","football","footballClubs"],
+      "type":["man","trending","sale" ,"clothing","shirts","jerseys","sports","new","football","manchester","footballClubs",["manchester"]],
       "productName":"Manchester City F.C. Prematch Jersey Men",
       "cost":3279,
       "costLeft":4928,
@@ -3283,7 +3283,7 @@
     },
     {
       "id":200,
-      "type":["man","clothing","shirts","jerseys","sports","training","football","footballClubs","olumpique"],
+      "type":["man","clothing","shirts","jerseys","sports","training","football","footballClubs","olumpique",["olumpique"]],
       "productName":"Olympique de Marseille Football Training Jersey Men",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -3299,7 +3299,7 @@
     },
     {
       "id":201,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam"],
+      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam",["nationalTeam"]],
       "productName":"Italy Home 22/23 Replica Jersey Men",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -3315,7 +3315,7 @@
     },
     {
       "id":202,
-      "type":["man","clothing","shoes","jerseys","sports","training","running","trackmeet"],
+      "type":["man","clothing","shoes","jerseys","sports","training","running","trackmeet",["short","sports"]],
       "productName":"Track Meet Shorts Men",
       "cost":4938,
       "smTitle":"Taxes & Duties included",
@@ -3331,7 +3331,7 @@
     },
     {
       "id":203,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam","morocco"],
+      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam","morocco",["nationalTeam"]],
       "productName":"Morocco Home 22/23 Replica Jersey Men",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3347,7 +3347,7 @@
     },
     {
       "id":204,
-      "type":["women","trending" ,"clothing","jerseys","shirts","sports","training","football","nationalTeam"],
+      "type":["women","trending" ,"clothing","jerseys","shirts","sports","training","football","nationalTeam",["nationalTeam"]],
       "productName":"Italy Away 22/23 Replica Jersey Women",
       "cost":2918,
       "smTitle":"Taxes & Duties included",
@@ -3363,7 +3363,7 @@
     },
     {
       "id":205,
-      "type":["man","trending" ,"clothing","jerseys","shirts","sports","training","football","footballClubs"],
+      "type":["man","trending" ,"clothing","jerseys","shirts","sports","training","football","footballClubs",["footballClubs"]],
       "productName":"Borussia Dortmund Cup 22/23 Replica Jersey Men",
       "cost":4937,
       "smTitle":"Taxes & Duties included",
@@ -3379,7 +3379,7 @@
     },
     {
       "id":206,
-      "type":["man","trending","sale" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers"],
+      "type":["man","trending","sale" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers",["cocaCola"] ],
       "productName":"PUMA x COCA-COLA Rider FV Sneakers",
       "cost":8987,
       "costLeft":10092,
@@ -3396,7 +3396,7 @@
     },
     {
       "id":207,
-      "type":["man","trending" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers","suede"],
+      "type":["man","trending" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers","suede",["cocaCola"] ],
       "productName":"PUMA x COCA-COLA Suede Sneakers",
       "cost":9830,
       "smTitle":"Taxes & Duties included",
@@ -3412,7 +3412,7 @@
     },
     {
       "id":208,
-      "type":["man","clothing","pants","collections","select","players"],
+      "type":["man","clothing","pants","collections","select","players",["players"] ],
       "productName":"Players' Lounge Track Pants Men",
       "cost":4736,
       "smTitle":"Taxes & Duties included",
@@ -3428,7 +3428,7 @@
     },
     {
       "id":209,
-      "type":["man","shoes","sale","sneakers","collections","select","players"],
+      "type":["man","shoes","sale","sneakers","collections","select","players",["players"]],
       "productName":"Players' Lounge RX 737 Sneakers",
       "cost":4738,
       "costLeft":7837,
@@ -3445,7 +3445,7 @@
     },
     {
       "id":210,
-      "type":["man","trending" ,"shirts","clothing","polo","collections","select","players"],
+      "type":["man","trending" ,"shirts","clothing","polo","collections","select","players",["players"]],
       "productName":"Players' Lounge Polo Shirt Men",
       "cost":8476,
       "smTitle":"Taxes & Duties included",
@@ -3461,7 +3461,7 @@
     },
     {
       "id":211,
-      "type":["man","women","accessories","backPacks","bags","collections","select","players"],
+      "type":["man","women","accessories","backPacks","bags","collections","select","players",["players"]],
       "productName":"Players' Lounge Grip Bag Men",
       "cost":5938,
       "smTitle":"Taxes & Duties included",
@@ -3477,7 +3477,7 @@
     },
     {
       "id":212,
-      "type":["women","man","accessories","hats","collections","select","players"],
+      "type":["women","man","accessories","hats","collections","select","players",["players"]],
       "productName":"Players' Lounge Cap Men",
       "cost":9887,
       "smTitle":"Taxes & Duties included",
@@ -3493,7 +3493,7 @@
     },
     {
       "id":213,
-      "type":["women","sale","man","shoes","sneakers","running","training","nitro","roodRunning","sports","motorSport","bmw"],
+      "type":["women","sale","man","shoes","sneakers","running","training","nitro","roodRunning","sports",["roodRunning"] ],
       "productName":"Deviate NITRO 2 Men's Running Shoes",
       "cost":8938,
       "costLeft":10928,
@@ -3510,7 +3510,7 @@
     },
     {
       "id":214,
-      "type":["women","shoes","sale","sneakers","running","training","nitro","roodRunning","sports"],
+      "type":["women","shoes","sale","sneakers","running","training","nitro","roodRunning","sports",["roodRunning"]],
       "productName":"Fast-Trac NITRO Running Shoes Women",
       "cost":5948,
       "costLeft":7948,
@@ -3527,7 +3527,7 @@
     },
     {
       "id":215,
-      "type":["women","shoes","sale","sports","running","nitro","roodRunning","sneakers"],
+      "type":["women","shoes","sale","sports","running","nitro","roodRunning","sneakers",["roodRunning"]],
       "productName":"Run XX Nitro WNS Running Shoes Women",
       "cost":3987,
       "costLeft":6357,
@@ -3544,7 +3544,7 @@
     },
     {
       "id":216,
-      "type":["women","man","sale","accessories","glovs","sports","fitness","gem","gemAcc"],
+      "type":["women","man","sale","accessories","glovs","sports","fitness","gem","gemAcc",["glovs"]],
       "productName":"Gym Women's Training Gloves",
       "cost":1928,
       "costLeft":2528,
@@ -3561,7 +3561,7 @@
     },
     {
       "id":217,
-      "type":["women","man","bags","accessories","sports","othorSport","sportEquipment","fitness","gemAcc","running","nitro"],
+      "type":["women","man","bags","accessories","sports","othorSport","sportEquipment","fitness","gemAcc","running","nitro",["bags"]],
       "productName":"Performance Running Classic Waist Bag",
       "cost":1493,
       "smTitle":"Taxes & Duties included",
@@ -3577,7 +3577,7 @@
     },
     {
       "id":218,
-      "type":["women","clothing","dresses"],
+      "type":["women","clothing","dresses",["dresses"]],
       "productName":"T7 Long Skirt Women",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3593,7 +3593,7 @@
     },
     {
       "id":219,
-      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","cali"],
+      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","cali",["shoes","kids"] ],
       "productName":"Cali Star Youth Trainers",
       "cost":2871,
       "costLeft":3451,
@@ -3610,7 +3610,7 @@
     },
     {
       "id":220,
-      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","caPro"],
+      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","caPro",["shoes","kids"]],
       "productName":"CA Pro Classic Kids' Trainers",
       "cost":3928,
       "costLeft":4539,
@@ -3628,7 +3628,7 @@
     },
     {
       "id":221,
-      "type":["kids","boys","girls","shoes","collections","lifestyle","suede"],
+      "type":["kids","boys","girls","shoes","collections","lifestyle","suede",["shoes","kids"]],
       "productName":"Suede Classic XXI Babies' Trainers",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3644,7 +3644,7 @@
     },
     {
       "id":222,
-      "type":["kids","trending" ,"boys","girls","shoes","collections","riderPack"],
+      "type":["kids","trending" ,"boys","girls","shoes","collections","riderPack",["shoes","kids"]],
       "productName":"Rider FV Future Vintage Sneakers Kids",
       "cost":5367,
       "smTitle":"Taxes & Duties included",
@@ -3660,7 +3660,7 @@
     },
     {
       "id":223,
-      "type":["kids","girls","sale","trending" ,"shoes","collections","lifestyle","smash"],
+      "type":["kids","girls","sale","trending" ,"shoes","collections","lifestyle","smash",["shoes","kids"]],
       "productName":"Smash v2 Butterfly AC Sneakers Kids",
       "cost":3927,
       "costLeft":5836,
@@ -3677,7 +3677,7 @@
     },
     {
       "id":224,
-      "type":["kids","trending" ,"boys","girls","shoes","collections","lifestyle","pokemon"],
+      "type":["kids","trending" ,"boys","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"] ],
       "productName":"PUMA x POKÉMON Rider FV Pikachu Alternative Closure Sneakers Babies",
       "cost":3923,
       "smTitle":"Taxes & Duties included",
@@ -3693,7 +3693,7 @@
     },
     {
       "id":225,
-      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon"],
+      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
       "productName":"PUMA x POKÉMON Suede Squirtle Sneakers Youth",
       "cost":3855,
       "smTitle":"Taxes & Duties included",
@@ -3709,7 +3709,7 @@
     },
     {
       "id":226,
-      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon"],
+      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
       "productName":"PUMA x POKÉMON Sliptream Lo Charmander Sneakers Youth",
       "cost":5398,
       "smTitle":"Taxes & Duties included",
@@ -3725,7 +3725,7 @@
     },
     {
       "id":227,
-      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","riderPack"],
+      "type":["kids","boys","sale","girls","shoes","collections","lifestyle","riderPack",["kids","shoes"] ],
       "productName":"Rider FV Essentials AC Sneakers Babies",
       "cost":2837,
       "costLeft":3297,
@@ -3742,7 +3742,7 @@
     },
     {
       "id":228,
-      "type":["kids","boys","girls","shoes","collections","pokemon"],
+      "type":["kids","boys","girls","shoes","collections","pokemon",["pokemon","shoes"]],
       "productName":"PUMA x POKÉMON Rider FV Bulbasaur Alternative Closure Sneakers Babies",
       "cost":5463,
       "smTitle":"Taxes & Duties included",
@@ -3758,7 +3758,7 @@
     },
     {
       "id":229,
-      "type":["kids","boys","sale","shoes","collections","motorSport"],
+      "type":["kids","boys","sale","shoes","collections","motorSport","bmw","sports",["motorSport","kids"] ],
       "productName":"BMW M Motorsport Bao Kart Motorsport Shoes Babies",
       "cost":2643,
       "costLeft":3844,
@@ -3776,7 +3776,7 @@
     },
     {
       "id":230,
-      "type":["kids","trending" ,"boys","shoes","collections","motorSport"],
+      "type":["kids","trending" ,"boys","shoes","collections","motorSport","mercedesAmg","sports",["motorSport","kids"]],
       "productName":"Mercedes-AMG Petronas Formula 1 Drift Cat Decima Motorsport Shoes Youth",
       "cost":2928,
       "smTitle":"Taxes & Duties included",
@@ -3792,7 +3792,7 @@
     },
     {
       "id":231,
-      "type":["kids","trending" ,"boys","shoes","collections","motorSport"],
+      "type":["kids","trending" ,"boys","shoes","collections","motorSport","ferrari","sports",["motorSport","kids"]],
       "productName":"Scuderia Ferrari Drift Cat Decima Motorsport Shoes Babies",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -3808,7 +3808,7 @@
     },
     {
       "id":232,
-      "type":["kids","boys","shoes","man","football"],
+      "type":["kids","boys","shoes","man","football",["football","shoes"] ],
       "productName":"FUTURE Match FG/AG Football Boots Youth",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -3825,7 +3825,7 @@
     },
     {
       "id":233,
-      "type":["kids","trending" ,"sale","boys","shoes","man","football"],
+      "type":["kids","trending" ,"sale","boys","shoes","man","football",["football","shoes"]],
       "productName":"FUTURE Play TT Football Boots Youth",
       "cost":2917,
       "costLeft":3217,
@@ -3842,7 +3842,7 @@
     },
     {
       "id":234,
-      "type":["kids","boys","shoes","man","football"],
+      "type":["kids","boys","shoes","man","football",["football","shoes"]],
       "productName":"FUTURE Play FG/AG Football Boots Youth",
       "cost":3928,
       "size":[28,30,32,34,36,38],
@@ -3858,7 +3858,7 @@
     },
     {
       "id":235,
-      "type":["kids","trending" ,"girls","shoes","collections","riderPack"],
+      "type":["kids","trending" ,"girls","shoes","collections","riderPack",["riderPack"]],
       "productName":"TRC Blaze Galaxy2 Sneakers Youth",
       "cost":2983,
       "smTitle":"Taxes & Duties included",
@@ -3874,7 +3874,7 @@
     },
     {
       "id":236,
-      "type":["kids","trending" ,"girls","women","sneakers","running","roodRunning","shoes"],
+      "type":["kids","trending" ,"girls","women","sneakers","running","roodRunning","shoes",["sneakers"]],
       "productName":"Twitch Runner Youth Trainers",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3890,7 +3890,7 @@
     },
     {
       "id":237,
-      "type":["kids","girls","boys","collections","shoes","cali"],
+      "type":["kids","girls","boys","collections","shoes","cali",["sneakers"]],
       "productName":"Carina 2.0 Sneakers Youth",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3906,7 +3906,7 @@
     },
     {
       "id":238,
-      "type":["kids","trending" ,"girls","boys","collections","shoes","cali"],
+      "type":["kids","trending" ,"girls","boys","collections","shoes","cali",["cali","kids"]],
       "productName":"Cali Dream Shiny Pack Sneakers Kids",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3922,7 +3922,7 @@
     },
     {
       "id":239,
-      "type":["kids","trending" ,"girls","boys","collections","shoes","riderPack"],
+      "type":["kids","trending" ,"girls","boys","collections","shoes","riderPack",["kids","shoes"] ],
       "productName":"RS-Z Core AC Babies' Trainers",
       "cost":3090,
       "smTitle":"Taxes & Duties included",
@@ -3938,7 +3938,7 @@
     },
     {
       "id":240,
-      "type":["kids","trending","sale" ,"girls","collections","shoes","riderPack"],
+      "type":["kids","trending","sale" ,"girls","collections","shoes","riderPack",["kids","shoes"] ],
       "productName":"Rider FV Future Vintage Sneakers Babies",
       "cost":2392,
       "costLeft":3928,
@@ -3955,7 +3955,7 @@
     },
     {
       "id":241,
-      "type":["kids","girls","collections","shoes","cali"],
+      "type":["kids","girls","collections","shoes","cali",["kids","shoes"]],
       "productName":"PUMA Smash v2 Glitz Glam Sneakers Kids",
       "cost":2457,
       "smTitle":"Taxes & Duties included",
@@ -3971,7 +3971,7 @@
     },
     {
       "id":242,
-      "type":["kids","trending" ,"girls","collections","shoes","cali"],
+      "type":["kids","trending" ,"girls","collections","shoes","cali",["kids","shoes"]],
       "productName":"Mayze Kids' Trainers",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3987,7 +3987,7 @@
     },
     {
       "id":243,
-      "type":["kids","trending" ,"girls","women","sneakers","collections","shoes","riderPack"],
+      "type":["kids","trending" ,"girls","women","sneakers","collections","shoes","riderPack",["kids","shoes"]],
       "productName":"RS-X Dreamy Alternative Closure+ Sneakers Kids",
       "cost":5749,
       "smTitle":"Taxes & Duties included",
@@ -4003,7 +4003,7 @@
     },
     {
       "id":244,
-      "type":["kids","trending" ,"boys","football","clothing","man","footballClubs"],
+      "type":["kids","trending" ,"boys","football","clothing","man","milan","footballClubs",["kids","football"] ],
       "productName":"A.C. Milan Home 22/23 Replica Jersey Youth",
       "cost":4938,
       "smTitle":"Taxes & Duties included",
@@ -4019,7 +4019,7 @@
     },
     {
       "id":245,
-      "type":["kids","boys","football","clothing"],
+      "type":["kids","boys","football","clothing","olumpique",["kids","football"]],
       "productName":"Olympique de Marseille Home 22/23 Replica Jersey Youth",
       "cost":2916,
       "solid":true,
@@ -4036,7 +4036,7 @@
     },
     {
       "id":246,
-      "type":["kids","trending","sale" ,"boys","football","clothing","man","pants","collections","lifestyle","njr"],
+      "type":["kids","trending","sale" ,"boys","football","clothing","man","pants","collections","lifestyle","njr",["njr"]],
       "productName":"Neymar Jr 24/7 Football Tee Youth",
       "cost":3922,
       "costLeft":4929,
@@ -4053,7 +4053,7 @@
     },
     {
       "id":247,
-      "type":["kids","trending" ,"boys","football","clothing","man","footballClubs"],
+      "type":["kids","trending" ,"boys","football","clothing","man","footballClubs",["kids","football"]],
       "productName":"Bapy Clup Traning Home 22/23 mini Kit",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -4069,7 +4069,7 @@
     },
     {
       "id":248,
-      "type":["kids","boys","sale","football","clothing","man","footballClubs"],
+      "type":["kids","boys","sale","football","clothing","man","footballClubs",["kids","football"]],
       "productName":"Manchester City F.C. Home 22/23 Replica Jersey Youth",
       "cost":4736,
       "costLeft":5738,
@@ -4086,7 +4086,7 @@
     },
     {
       "id":249,
-      "type":["kids","boys","sale","football","clothing","man","nationalTeam"],
+      "type":["kids","boys","sale","football","clothing","man","nationalTeam",["kids","football"]],
       "productName":"Italy Away 22/23 Replica Jersey Youth",
       "cost":2837,
       "costLeft":3277,
@@ -4103,7 +4103,7 @@
     },
     {
       "id":250,
-      "type":["kids","trending" ,"boys","girls","accessories","collections","lifestyle","spongeBob"],
+      "type":["kids","trending" ,"boys","girls","accessories","collections","lifestyle","spongeBob",["spongeBob"]],
       "productName":"PUMA x SPONGEBOB Backpack",
       "cost":2837,
       "smTitle":"Taxes & Duties included",
@@ -4119,7 +4119,7 @@
     },
     {
       "id":251,
-      "type":["kids","girls","boys","accessories","collections","lifestyle","spongeBob"],
+      "type":["kids","girls","boys","accessories","collections","lifestyle","spongeBob",["spongeBob"]],
       "productName":"PUMA x SPONGEBOB Backpack",
       "cost":2983,
       "smTitle":"Taxes & Duties included",
@@ -4135,7 +4135,7 @@
     },
     {
       "id":252,
-      "type":["kids","girls","accessories","women","bags","backPacks"],
+      "type":["kids","girls","accessories","women","bags","backPacks",["kids","bags"] ],
       "productName":"Phase Small Youth Backpack",
       "cost":2163,
       "smTitle":"Taxes & Duties included",
@@ -4151,7 +4151,7 @@
     },
     {
       "id":253,
-      "type":["kids","girls","sale","accessories","women","bags","backPacks"],
+      "type":["kids","girls","sale","accessories","women","bags","backPacks",["kids","bags"]],
       "productName":"PRIME Vacay Queen Backpack Youth",
       "cost":2983,
       "costLeft":3729,
@@ -4168,7 +4168,7 @@
     },
     {
       "id":254,
-      "type":["kids","girls","accessories","women","bags","backPacks"],
+      "type":["kids","girls","accessories","women","bags","backPacks",["kids","bags"]],
       "productName":"Small World Backpack Kids",
       "cost":2734,
       "smTitle":"Taxes & Duties included",
@@ -4184,7 +4184,7 @@
     },
     {
       "id":255,
-      "type":["kids","trending" ,"girls","boys","accessories","women","hats"],
+      "type":["kids","trending" ,"girls","boys","accessories","women","hats",["hats","kids"]],
       "productName":"PRIME Vacay Queen Cap Youth",
       "cost":1827,
       "smTitle":"Taxes & Duties included",
@@ -4200,7 +4200,7 @@
     },
     {
       "id":256,
-      "type":["kids","boys","girls","accessories"],
+      "type":["kids","boys","girls","accessories",["hats","kids"]],
       "productName":"Small World Pinch Panel Cap Kids",
       "cost":1928,
       "solid":true,
@@ -4217,7 +4217,7 @@
     },
     {
       "id":257,
-      "type":["kids","boys","girls","accessories","women","hats"],
+      "type":["kids","boys","girls","accessories","women","hats",["hats","kids"]],
       "productName":"Small World Pom-Pom Beanie Youth",
       "cost":1493,
       "smTitle":"Taxes & Duties included",
@@ -4233,7 +4233,7 @@
     },
     {
       "id":258,
-      "type":["kids","boys","girls","women","man","backPacks","bags","accessories"],
+      "type":["kids","boys","girls","women","man","backPacks","bags","accessories",["bags","kids"]],
       "productName":"Phase Small Youth Backpack",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -4249,7 +4249,7 @@
     },
     {
       "id":259,
-      "type":["kids","boys","girls","accessories"],
+      "type":["kids","boys","girls","accessories",["kids","hats"] ],
       "productName":"Small World Pinch Panel Cap Kids",
       "cost":1230,
       "smTitle":"Taxes & Duties included",
@@ -4265,7 +4265,7 @@
     },
     {
       "id":260,
-      "type":["kids","boys","girls","accessories"],
+      "type":["kids","boys","girls","accessories",["kids","hats"]],
       "productName":"Small World Pom-Pom Beanie Youth",
       "cost":1480,
       "smTitle":"Taxes & Duties included",
@@ -4281,7 +4281,7 @@
     },
     {
       "id":261,
-      "type":["kids","women","boys","bags","girls","accessories"],
+      "type":["kids","women","boys","bags","girls","accessories",["woman","bags"]],
       "productName":"PUMA Sense Waist Bag",
       "cost":4422,
       "smTitle":"Taxes & Duties included",
@@ -4297,7 +4297,7 @@
     },
     {
       "id":262,
-      "type":["kids","women","sale","girls","clothing","leggings"],
+      "type":["kids","women","sale","girls","clothing","leggings",["leggings"]],
       "productName":"NOVA SHINE Printed Leggings Youth",
       "cost":2938,
       "costLeft":3478,
@@ -4314,7 +4314,7 @@
     },
     {
       "id":263,
-      "type":["kids","women","sale","girls","clothing","hoodie"],
+      "type":["kids","women","sale","girls","clothing","hoodie",["girls","clothing"] ],
       "productName":"Essentials+ Bloom Logo Hoodie Youth",
       "cost":1982,
       "costLeft":2837,
@@ -4331,7 +4331,7 @@
     },
     {
       "id":264,
-      "type":["kids","girls","sale","clothing"],
+      "type":["kids","girls","sale","clothing",["girls","clothing"]],
       "productName":"Classics Logo Youth Tee",
       "cost":1282,
       "costLeft":1887,
@@ -4348,7 +4348,7 @@
     },
     {
       "id":265,
-      "type":["kids","girls","sale","clothing"],
+      "type":["kids","girls","sale","clothing",["girls","clothing"]],
       "productName":"Alpha Printed Full-Zip Hoodie Youth",
       "cost":1682,
       "costLeft":2387,
@@ -4365,7 +4365,7 @@
     },
     {
       "id":266,
-      "type":["kids","girls","sale","clothing"],
+      "type":["kids","girls","sale","clothing",["girls","clothing"]],
       "productName":"Classics T7 Youth Track Pants",
       "cost":1982,
       "costLeft":2987,
@@ -4382,7 +4382,7 @@
     },
     {
       "id":267,
-      "type":["kids","girls","boys","sale","collections","motorSport","clothing"],
+      "type":["kids","girls","boys","sale","collections","motorSport","clothing",["kids","motorSport"]],
       "productName":"BMW M Motorsport Shorts Youth",
       "cost":1982,
       "costLeft":2987,
@@ -4399,7 +4399,7 @@
     },
     {
       "id":268,
-      "type":["kids","girls","clothing"],
+      "type":["kids","girls","clothing",["girls","clothing"]],
       "productName":"Essentials Logo Hooded Dress Youth",
       "cost":1782,
       "smTitle":"Taxes & Duties included",
@@ -4415,7 +4415,7 @@
     },
     {
       "id":269,
-      "type":["kids","trending" ,"girls","boys","shoes","collections","motorSport"],
+      "type":["kids","trending" ,"girls","boys","shoes","collections","motorSport",["motorSport","kids"]],
       "productName":"Scuderia Ferrari Drift Cat Decima Motorsport Shoes Babies",
       "cost":1982,
       "smTitle":"Taxes & Duties included",
@@ -4431,7 +4431,7 @@
     },
     {
       "id":270,
-      "type":["kids","trending" ,"girls","boys","clothing","collections","lifestyle","pokemon"],
+      "type":["kids","trending" ,"girls","boys","clothing","collections","lifestyle","pokemon",["pokemon"]],
       "productName":"PUMA x POKÉMON Crewneck Sweatshirt Youth",
       "cost":3927,
       "smTitle":"Taxes & Duties included",
@@ -4447,7 +4447,7 @@
     },
     {
       "id":271,
-      "type":["kids","trending" ,"girls","boys","clothing","sports","motorSport"],
+      "type":["kids","trending" ,"girls","boys","clothing","sports","motorSport",["motorSport","kids"]],
       "productName":"BMW M Motorsport Shorts Youth",
       "cost":4297,
       "smTitle":"Taxes & Duties included",
@@ -4463,7 +4463,7 @@
     },
     {
       "id":272,
-      "type":["man","short","clothing","sports","running","training","trackmeet"],
+      "type":["man","short","clothing","sports","running","training","trackmeet",["men","short"]],
       "productName":"Track Meet Shorts Men",
       "cost":4529,
       "smTitle":"Taxes & Duties included",
@@ -4479,7 +4479,7 @@
     },
     {
       "id":273,
-      "type":["women","kids","sale","clothing","girls","dresses"],
+      "type":["women","kids","sale","clothing","girls","dresses",["dresses"]],
       "productName":"T7 Half-Zip Mock Neck Dress Women",
       "cost":5948,
       "costLeft":7340,
@@ -4496,7 +4496,7 @@
     },
     {
       "id":274,
-      "type":["women","kids","clothing","trending","girls","dresses"],
+      "type":["women","kids","clothing","trending","girls","dresses",["dresses"]],
       "productName":"Classics A-Line Skirt Women",
       "cost":3293,
       "smTitle":"Taxes & Duties included",
@@ -4512,7 +4512,7 @@
     },
     {
       "id":275,
-      "type":["women","kids","clothing","trending","girls","dresses"],
+      "type":["women","kids","clothing","trending","girls","dresses",["dresses"]],
       "productName":"Classics A-Line Skirt Women",
       "cost":3293,
       "smTitle":"Taxes & Duties included",
@@ -4528,7 +4528,7 @@
     },
     {
       "id":276,
-      "type":["girls","kids","clothing","trending","collections","cottons"],
+      "type":["girls","kids","clothing","trending","collections","cottons",["cottons"]],
       "productName":"PUMA x TINY COTTONS Printed Sweatpants Kids",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
