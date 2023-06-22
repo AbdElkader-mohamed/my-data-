@@ -117,7 +117,7 @@
       "imageOne4":"./assets/image/kidsWear/8d.webp",
       "imageOne5":"./assets/image/kidsWear/8e.webp",
       "imageOne6":"./assets/image/kidsWear/8f.webp",
-      "story":"This one is made for winners: The Evostripe Tee combines an intelligent cut line with raglan sleeves for maximum flexibility and freedom of movement. Not only that, but the recycled fabric features PUMA's innovative dryCELL performance technology, which absorbs sweat while leaving you dry. A PUMA Cat Logo on the chest finishes the look."
+      "story":"This one is made for winners: The Evostripe Tee combines an intelligent cut line with raglan sleeves for maximum flexibility and freedom of movement. Not only that, but the recycled fabric features PUMA's innovative dryCELL performence technology, which absorbs sweat while leaving you dry. A PUMA Cat Logo on the chest finishes the look."
     },
     {
       "id":8,
@@ -477,7 +477,7 @@
     },
     {
       "id":30,
-      "type":["man","clothing","jackets","sports","tracksuit","collections","select","trackmeet",["tracksuit"] ],
+      "type":["men","clothing","jackets","sports","tracksuit","collections","select","trackmeet",["tracksuit"] ],
       "productName":"Track Meet T7 Track Jacket Men",
       "cost":6984,
       "smTitle":"Taxes & Duties included",
@@ -558,11 +558,11 @@
       "imageOne4":"./assets/image/sneakers/4d.webp",
       "imageOne5":"./assets/image/sneakers/4e.webp",
       "imageOne6":"./assets/image/sneakers/4f.webp",
-      "story":"Keep the game going in the shoe that launched a movement, our Rider Play On Trainers. This shoe is dedicated to pared-down performance, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style."
+      "story":"Keep the game going in the shoe that launched a movement, our Rider Play On Trainers. This shoe is dedicated to pared-down performence, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style."
     },
     {
       "id":35,
-      "type":["women","shoes","running","sports","sale","man","training","collections","lifestyle","mirage","riderPack","new",["riderPack"] ],
+      "type":["women","shoes","running","sports","sale","men","training","collections","lifestyle","mirage","riderPack","new",["riderPack"] ],
       "productName":"RS-X Reinvention Trainers",
       "cost":6879,
       "costLeft":7629,
@@ -596,7 +596,7 @@
     },
     {
       "id":37,
-      "type":["women","shoes","sneakers","sale","man","collections","lifestyle","mirage","riderPack","trending","new",["riderPack"] ],
+      "type":["women","shoes","sneakers","sale","men","collections","lifestyle","mirage","riderPack","trending","new",["riderPack"] ],
       "productName":"Prevail Sneakers",
       "cost":4569,
       "costLeft":6989,
@@ -609,7 +609,7 @@
       "imageOne4":"./assets/image/sneakers/7d.webp",
       "imageOne5":"./assets/image/sneakers/7e.webp",
       "imageOne6":"./assets/image/sneakers/7f.webp",
-      "story":"Retro-inspired yet trendy for today, the Prevail silhouette is back from the '90s archives and ready to make an impact. Part of the Trinomic running series, with comfortable cushioning and a breathable mesh upper, plus cool colour combinations and bold PUMA branding, it's a shoe that delivers on performance without compromising on style."
+      "story":"Retro-inspired yet trendy for today, the Prevail silhouette is back from the '90s archives and ready to make an impact. Part of the Trinomic running series, with comfortable cushioning and a breathable mesh upper, plus cool colour combinations and bold PUMA branding, it's a shoe that delivers on performence without compromising on style."
     },
     {
       "id":38,
@@ -630,7 +630,7 @@
     },
     {
       "id":39,
-      "type":["women","shoes","running","man","sports","training","collections","lifestyle","sustainable","smash","new",["riderPack"] ],
+      "type":["women","shoes","running","men","sports","training","collections","lifestyle","sustainable","smash","new",["riderPack"] ],
       "productName":"X-Ray 2 Square Trainers",
       "cost":6369,
       "smTitle":"Taxes & Duties included",
@@ -696,7 +696,7 @@
     },
     {
       "id":43,
-      "type":["women","shoes","sneakers","sale","man","collections","lifestyle","mirage","riderPack",["riderPack"] ],
+      "type":["women","shoes","sneakers","sale","men","collections","lifestyle","mirage","riderPack",["riderPack"] ],
       "productName":" Future Rider Play On Sneakers",
       "cost":3534,
       "costLeft":5534,
@@ -709,7 +709,7 @@
       "imageOne4":"./assets/image/sneakers/13d.webp",
       "imageOne5":"./assets/image/sneakers/13e.webp",
       "imageOne6":"./assets/image/sneakers/13f.webp",
-      "story":"Keep the game going in the shoe that launched a movement, our Rider Play On Trainers. This shoe is dedicated to pared-down performance, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style."
+      "story":"Keep the game going in the shoe that launched a movement, our Rider Play On Trainers. This shoe is dedicated to pared-down performence, featuring a super-light nylon, suede and leather upper and our famous shock-absorbing Federbein outsole to keep you pounding the pavement in style."
     },
     {
       "id":44,
@@ -777,7 +777,7 @@
       "imageOne4":"./assets/image/sneakers/17d.webp",
       "imageOne5":"./assets/image/sneakers/17e.webp",
       "imageOne6":"./assets/image/sneakers/17f.webp",
-      "story":"Expert craftsmanship intersects with our signature sportswear silhouettes in the MMQ line. In this Slipstream Lo, we’ve retooled the ‘80s-era basketball sneaker with a pared back full suede upper. The shoe’s masterful workmanship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native German, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
+      "story":"Expert craftsmenship intersects with our signature sportswear silhouettes in the MMQ line. In this Slipstream Lo, we’ve retooled the ‘80s-era basketball sneaker with a pared back full suede upper. The shoe’s masterful workmenship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native Germen, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
     },
     {
       "id":48,
@@ -797,7 +797,7 @@
     },
     {
       "id":49,
-      "type":["women","shoes","sneakers","man","sports","motorSport","classic","speedCat","collections","lifestyle","mayze","smash","suede","caPro",["suede"] ],
+      "type":["women","shoes","sneakers","men","sports","motorSport","classic","speedCat","collections","lifestyle","mayze","smash","suede","caPro",["suede"] ],
       "productName":"SpeedCat LS Driving Shoes",
       "cost":4620,
       "smTitle":"Taxes & Duties included",
@@ -865,7 +865,7 @@
     },
     {
       "id":53,
-      "type":["women","shoes","sneakers","sale","man","collection","suede","lifestyle",["vogue"] ],
+      "type":["women","shoes","sneakers","sale","men","collection","suede","lifestyle",["vogue"] ],
       "productName":"PUMA x VOGUE Slipstream Sneakers Women",
       "cost":3894,
       "costLeft":4584,
@@ -898,7 +898,7 @@
     },
     {
       "id":55,
-      "type":["women","shoes","sneakers","man","collections","select","pam","lifestyle","suede","trending",["pam"]  ],
+      "type":["women","shoes","sneakers","men","collections","select","pam","lifestyle","suede","trending",["pam"]  ],
       "productName":"PUMA x PERKS AND MINI Suede VTG Sneakers",
       "cost":8677,
       "smTitle":"Taxes & Duties included",
@@ -978,7 +978,7 @@
     },
     {
       "id":60,
-      "type":["women","shoes","sneakers","sale","new","man","collections","lifestyle","riderPack",["riderPack"] ],
+      "type":["women","shoes","sneakers","sale","new","men","collections","lifestyle","riderPack",["riderPack"] ],
       "productName":"Rider FV Block Sneakers",
       "cost":4368,
       "costLeft":7168,
@@ -1041,7 +1041,7 @@
       "imageOne4":"./assets/image/sneakers/33d.webp",
       "imageOne5":"./assets/image/sneakers/33e.webp",
       "imageOne6":"./assets/image/sneakers/33f.webp",
-      "story":"Expert craftsmanship intersects with our signature sportswear silhouettes in the MMQ line. In this Blaze of Glory, we’ve outfitted our ‘90s-era sneaker with a pared back full suede upper, a unique lacing system, and perforated suede vamp – staying true to the OG model. The shoe’s masterful workmanship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native German, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
+      "story":"Expert craftsmenship intersects with our signature sportswear silhouettes in the MMQ line. In this Blaze of Glory, we’ve outfitted our ‘90s-era sneaker with a pared back full suede upper, a unique lacing system, and perforated suede vamp – staying true to the OG model. The shoe’s masterful workmenship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native Germen, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
     },
     {
       "id":64,
@@ -1161,7 +1161,7 @@
     },
     {
       "id":71,
-      "type":["women","clothing","hoodie","man","collections","select","ami",["ami"] ],
+      "type":["women","clothing","hoodie","men","collections","select","ami",["ami"] ],
       "productName":"PUMA x AMI Hoodie",
       "cost":9867,
       "smTitle":"Taxes & Duties included",
@@ -1392,7 +1392,7 @@
       "imageOne4":"./assets/image/hoodie/14d.webp",
       "imageOne5":"./assets/image/hoodie/14e.webp",
       "imageOne6":"./assets/image/hoodie/14f.webp",
-      "story":"Stay fresh and look cool in this striking MT7 track jacket collab from PUMA and Scuderia Ferrari – the epitome of motorsporting elegance. Featuring a stand-up collar to keep you cosy and dryCELL performance technology to keep you dry as you work up a sweat, this is the perfect all-rounder for different conditions. Be prepared for the unexpected – at the race track and beyond."
+      "story":"Stay fresh and look cool in this striking MT7 track jacket collab from PUMA and Scuderia Ferrari – the epitome of motorsporting elegance. Featuring a stand-up collar to keep you cosy and dryCELL performence technology to keep you dry as you work up a sweat, this is the perfect all-rounder for different conditions. Be prepared for the unexpected – at the race track and beyond."
     },
     {
       "id":85,
@@ -1408,7 +1408,7 @@
       "imageOne4":"./assets/image/hoodie/15d.webp",
       "imageOne5":"./assets/image/hoodie/15e.webp",
       "imageOne6":"./assets/image/hoodie/15f.webp",
-      "story":"A new season of LUXE SPORT has arrived, with the same next-gen approach to craftsmanship. This gilet is destined for both the runway and the city. It has an oversized fit to create an out-there look."
+      "story":"A new season of LUXE SPORT has arrived, with the same next-gen approach to craftsmenship. This gilet is destined for both the runway and the city. It has an oversized fit to create an out-there look."
     },
     {
       "id":86,
@@ -1493,7 +1493,7 @@
     },
     {
       "id":91,
-      "type":["women","shirts","sports","football","footballApparel","training","clothing",["training","woman"] ],
+      "type":["women","shirts","sports","football","footballApparel","training","clothing",["training","women"] ],
       "productName":"individualBLAZE Quarter-Zip Football Top Women",
       "cost":3479,
       "solid":true,
@@ -1506,11 +1506,11 @@
       "imageOne4":"./assets/image/hoodie/21d.webp",
       "imageOne5":"./assets/image/hoodie/21e.webp",
       "imageOne6":"./assets/image/hoodie/21f.webp",
-      "story":"The individualBLAZE collection contains specially built football gear for female footballers.Including graphic elements, vibrant colours for dynamic players, and our performance technologies, hit the pitch ready to dominate in this quarter-zip."
+      "story":"The individualBLAZE collection contains specially built football gear for female footballers.Including graphic elements, vibrant colours for dynamic players, and our performence technologies, hit the pitch ready to dominate in this quarter-zip."
     },
     {
       "id":92,
-      "type":["women","shirts","sports","yoga","fitness","gem","training","clothing",["training","woman"] ],
+      "type":["women","shirts","sports","yoga","fitness","gem","training","clothing",["training","women"] ],
       "productName":"Nova Shine Training Sweatshirt Women",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -1522,11 +1522,11 @@
       "imageOne4":"./assets/image/hoodie/22d.webp",
       "imageOne5":"./assets/image/hoodie/22e.webp",
       "imageOne6":"./assets/image/hoodie/22f.webp",
-      "story":"It is your time to shine – in and out of the gym. The relaxed fit feels modern and chic, the dryCELL construction keeps you dry as you train, and the bottom hem drawcords are adjustable and attractive. Punchy PUMA branding completes this performance piece."
+      "story":"It is your time to shine – in and out of the gym. The relaxed fit feels modern and chic, the dryCELL construction keeps you dry as you train, and the bottom hem drawcords are adjustable and attractive. Punchy PUMA branding completes this performence piece."
     },
     {
       "id":93,
-      "type":["women","shirts","sports","training","yoga","running","nitro","fitness","clothing",["running","woman","clothing"] ],
+      "type":["women","shirts","sports","training","yoga","running","nitro","fitness","clothing",["running","women","clothing"] ],
       "productName":"SEASONS Trail Running Half-Zip Pullover Women",
       "cost":3894,
       "smTitle":"Taxes & Duties included",
@@ -1542,7 +1542,7 @@
     },
     {
       "id":94,
-      "type":["women","hoodie","collections","select","trinomic","clothing",["hoodie","woman"] ],
+      "type":["women","hoodie","collections","select","trinomic","clothing",["hoodie","women"] ],
       "productName":"Classics Oversized Hoodie Women",
       "cost":3689,
       "smTitle":"Taxes & Duties included",
@@ -1624,7 +1624,7 @@
     },
     {
       "id":99,
-      "type":["women","jackets","hoodie","classic","tracksuit","sports","running","training","fitness","modest","gem","nitro","clothing","trending",["woman","tracksuit"]  ],
+      "type":["women","jackets","hoodie","classic","tracksuit","sports","running","training","fitness","modest","gem","nitro","clothing","trending",["women","tracksuit"]  ],
       "productName":"Classic Hooded Tracksuit Women",
       "cost":2543,
       "smTitle":"Taxes & Duties included",
@@ -1657,7 +1657,7 @@
     },
     {
       "id":101,
-      "type":["women","sale","bras","pants","clothing",["woman","leggings"] ],
+      "type":["women","sale","bras","pants","clothing",["women","leggings"] ],
       "productName":"Dare To Woven Pants Women",
       "cost":2543,
       "costLeft":3756,
@@ -1691,7 +1691,7 @@
     },
     {
       "id":103,
-      "type":["women","sale","shirts","sports","running","training","fitness","modest","clothing",["shirts","woman"] ],
+      "type":["women","sale","shirts","sports","running","training","fitness","modest","clothing",["shirts","women"] ],
       "productName":"Essentials Logo Heather Women's Tee",
       "cost":1543,
       "costLeft":2143,
@@ -1708,7 +1708,7 @@
     },
     {
       "id":104,
-      "type":["women","shirts","collections","lifestyle","ragged","clothing",["shirts","woman"] ],
+      "type":["women","shirts","collections","lifestyle","ragged","clothing",["shirts","women"] ],
       "productName":"Power Deco Glam Tee Women",
       "cost":2432,
       "smTitle":"Taxes & Duties included",
@@ -1758,7 +1758,7 @@
     },
     {
       "id":107,
-      "type":["women","hoodie","sports","running","training","tracksuit","clothing",["hoodie","woman"] ],
+      "type":["women","hoodie","sports","running","training","tracksuit","clothing",["hoodie","women"] ],
       "productName":"Iconic T7 Women's Track Jacket",
       "cost":4368,
       "smTitle":"Taxes & Duties included",
@@ -1787,7 +1787,7 @@
       "imageOne4":"./assets/image/hoodie/38d.webp",
       "imageOne5":"./assets/image/hoodie/38e.webp",
       "imageOne6":"./assets/image/hoodie/38f.webp",
-      "story":"Expert craftsmanship intersects with our signature sportswear silhouettes in the MMQ line. In this classic crewneck sweatshirt, masterful workmanship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native German, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
+      "story":"Expert craftsmenship intersects with our signature sportswear silhouettes in the MMQ line. In this classic crewneck sweatshirt, masterful workmenship is guided by minimalistic design sensibilities to yield a piece we’re proud to say in our native Germen, Macht’s mit Qualität (MMQ), aka ‘Made with Quality’."
     },
     {
       "id":109,
@@ -1808,7 +1808,7 @@
     },
     {
       "id":110,
-      "type":["women","pants","sale","collections","lifestyle","ragged","clothing",["woman","leggings"] ],
+      "type":["women","pants","sale","collections","lifestyle","ragged","clothing",["women","leggings"] ],
       "productName":"PUMA x THE RAGGED PRIEST Flared Pants Women",
       "cost":3872,
       "costLeft":5372,
@@ -1826,7 +1826,7 @@
     },
     {
       "id":111,
-      "type":["women","man","accessories","hats",["hats","men"] ],
+      "type":["women","men","accessories","hats",["hats","men"] ],
       "productName":"Metal Cat Cap",
       "cost":1283,
       "smTitle":"Taxes & Duties included",
@@ -1842,7 +1842,7 @@
     },
     {
       "id":112,
-      "type":["women","man","sale","accessories","motorSport","sports","porscheLegacy","porscheDesign","bags","backPacks",["bags","men"] ],
+      "type":["women","men","sale","accessories","motorSport","sports","porscheLegacy","porscheDesign","bags","backPacks",["bags","men"] ],
       "productName":"Porsche Legacy Backpack",
       "cost":3726,
       "costLeft":4599,
@@ -1859,7 +1859,7 @@
     },
     {
       "id":113,
-      "type":["women","man","accessories","motorSport","sports","mercedesAmg","bags","backPacks","trending",["backPacks","men"]  ],
+      "type":["women","men","accessories","motorSport","sports","mercedesAmg","bags","backPacks","trending",["backPacks","men"]  ],
       "productName":"Mercedes-AMG Petronas Motorsport Backpack",
       "cost":4749,
       "smTitle":"Taxes & Duties included",
@@ -1875,7 +1875,7 @@
     },
     {
       "id":114,
-      "type":["women","man","sale","accessories","sports","basketballapparel","basketball","bags",["bags","men"] ],
+      "type":["women","men","sale","accessories","sports","basketballapparel","basketball","bags",["bags","men"] ],
       "productName":"Basketball Pro Duffel Bag",
       "cost":2918,
       "costLeft":4297,
@@ -1892,7 +1892,7 @@
     },
     {
       "id":115,
-      "type":["women","man","sale","accessories","collections","select","ami","bags","backPacks",["ami"] ],
+      "type":["women","men","sale","accessories","collections","select","ami","bags","backPacks",["ami"] ],
       "productName":"PUMA x AMI Waistbag",
       "cost":4674,
       "costLeft":5836,
@@ -1909,7 +1909,7 @@
     },
     {
       "id":116,
-      "type":["women","man","sale","accessories","collections","select","trackmeet","bags","backPacks",["bags"] ],
+      "type":["women","men","sale","accessories","collections","select","trackmeet","bags","backPacks",["bags"] ],
       "productName":"Fast Track Portable Bag",
       "cost":2938,
       "costLeft":3873,
@@ -1926,7 +1926,7 @@
     },
     {
       "id":117,
-      "type":["women","man","collections","select","ami","bags","backPacks","trending",["ami"]  ],
+      "type":["women","men","collections","select","ami","bags","backPacks","trending",["ami"]  ],
       "productName":"PUMA x AMI Backpack",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -1942,7 +1942,7 @@
     },
     {
       "id":118,
-      "type":["women","man","accessories","hats","football","olumpique","sports","trending",["olumpique"]   ],
+      "type":["women","men","accessories","hats","football","olumpique","sports","trending",["olumpique"]   ],
       "productName":"Olympique de Marseille Bucket Hat",
       "cost":1432,
       "smTitle":"Taxes & Duties included",
@@ -1958,7 +1958,7 @@
     },
     {
       "id":119,
-      "type":["man","accessories","hats","trending" ,["hats","men"]  ],
+      "type":["men","accessories","hats","trending" ,["hats","men"]  ],
       "productName":"Prime Trapper Hat",
       "cost":1095,
       "smTitle":"Taxes & Duties included",
@@ -1974,7 +1974,7 @@
     },
     {
       "id":120,
-      "type":["women","man","sale","accessories","hats","collections","select","inland",["hats","woman"]  ],
+      "type":["women","men","sale","accessories","hats","collections","select","inland",["hats","women"]  ],
       "productName":"Archive Heather Beanie",
       "cost":1329,
       "costLeft":2199,
@@ -1991,7 +1991,7 @@
     },
     {
       "id":121,
-      "type":["women","man","sale","accessories","sports","hats","basketball","basketballapparel",["hats","men"]  ],
+      "type":["women","men","sale","accessories","sports","hats","basketball","basketballapparel",["hats","men"]  ],
       "productName":"Basketball Trucker Cap",
       "cost":1344,
       "costLeft":1344,
@@ -2009,7 +2009,7 @@
     },
     {
       "id":122,
-      "type":["man","accessories","motorSport","sports","ferrari","bags","backPacks","trending",["ferrari"]],
+      "type":["men","accessories","motorSport","sports","ferrari","bags","backPacks","trending",["ferrari"]],
       "productName":"Scuderia Ferrari SPTWR Race Portable Bag",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -2090,7 +2090,7 @@
     },
     {
       "id":127,
-      "type":["women","sale","man","new","accessories","backPacks","bags","boys","girls","kids",["bags","kids"]],
+      "type":["women","sale","men","new","accessories","backPacks","bags","boys","girls","kids",["bags","kids"]],
       "productName":"Phase Backpack",
       "cost":3677,
       "costLeft":4677,
@@ -2107,7 +2107,7 @@
     },
     {
       "id":128,
-      "type":["women","sale","man","accessories","hats","classic",["hats","women"]],
+      "type":["women","sale","men","accessories","hats","classic",["hats","women"]],
       "productName":"Classics Archive Mid Fit Beanie",
       "cost":1827,
       "costLeft":2187,
@@ -2141,7 +2141,7 @@
     },
     {
       "id":130,
-      "type":["women","kids","boys","man","girls","accessories","hats","sports","running","training","fitness","yoga","bags",["hats","women"]],
+      "type":["women","kids","boys","men","girls","accessories","hats","sports","running","training","fitness","yoga","bags",["hats","women"]],
       "productName":"Lightweight Running Cap",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2207,7 +2207,7 @@
     },
     {
       "id":134,
-      "type":["women","man","accessories","sports","training","bags",["bags","women"]],
+      "type":["women","men","accessories","sports","training","bags",["bags","women"]],
       "productName":"Safari Glam Training Shopper",
       "cost":3726,
       "smTitle":"Taxes & Duties included",
@@ -2224,7 +2224,7 @@
     },
     {
       "id":135,
-      "type":["women","sale","kids","man","boys","girls","accessories","backPacks","bags",["bags","kids"]],
+      "type":["women","sale","kids","men","boys","girls","accessories","backPacks","bags",["bags","kids"]],
       "productName":"Academy Backpack",
       "cost":4736,
       "costLeft":5816,
@@ -2241,7 +2241,7 @@
     },
     {
       "id":136,
-      "type":["women","sale","man","kids","boys","girls","sports","training","yoga","fitness","gem","gemAcc",["gemAcc"]],
+      "type":["women","sale","men","kids","boys","girls","sports","training","yoga","fitness","gem","gemAcc",["gemAcc"]],
       "productName":"Studio Yoga Mat Training Bag",
       "cost":2265,
       "costLeft":2905,
@@ -2258,7 +2258,7 @@
     },
     {
       "id":137,
-      "type":["women","man","shoes","sports","football","footballBoots",["sports","shoes"] ],
+      "type":["women","men","shoes","sports","football","footballBoots",["sports","shoes"] ],
       "productName":"FUTURE Match FG/AG Football Boots Women",
       "cost":8735,
       "smTitle":"Taxes & Duties included",
@@ -2269,12 +2269,12 @@
       "imageOne3":"./assets/image/sports/1c.webp",
       "imageOne4":"./assets/image/sports/1d.webp",
       "imageOne5":"./assets/image/sports/1e.webp",
-      "imageOne6":"./assets/image/sports/1e.jpg",
+      "imageOne6":"./assets/image/sports/1f.jpg",
       "story":"The FUTURE is back, and so are the back-heels, stepovers, and no-look passes. The re-engineered mid-cut construction combines fit and agility so you can create without constraints through to the final whistle. On this Match version, a FUZIONFIT360 upper provides an even more adaptive, even more supportive fit. Stable at the heel and flexible at the forefoot, the second-generation Dynamic Motion System outsole provides traction and agility for unpredictable changes of direction. Free to move. Free to play. Free to create."
     },
     {
       "id":138,
-      "type":["women","sale","man","shoes","new","sports","football","footballBoots","trending",["sports","shoes"]  ],
+      "type":["women","sale","men","shoes","new","sports","football","footballBoots","trending",["sports","shoes"]  ],
       "productName":"ULTRA ULTIMATE FG/AG Football Boots",
       "cost":10928,
       "costLeft":14599,
@@ -2287,11 +2287,11 @@
       "imageOne4":"./assets/image/sports/2d.webp",
       "imageOne5":"./assets/image/sports/2e.webp",
       "imageOne6":"./assets/image/sports/2f.webp",
-      "story":"ULTRA – Not even you knew you could be this fast. Turn seconds into records with the ULTRA ULTIMATE football boot. Lighter means quicker, so the ULTRAWEAVE upper material makes every gram and every second count. The dual-density SPEEDPLATE tooling is inspired by PUMA’s track running heritage (fast), made of high-performance PEBA material (light), and optimized for direct-speed stability and propulsion (sweet). Ultra-light. Ultra-fast. ULTRA ULTIMATE."
+      "story":"ULTRA – Not even you knew you could be this fast. Turn seconds into records with the ULTRA ULTIMATE football boot. Lighter means quicker, so the ULTRAWEAVE upper material makes every gram and every second count. The dual-density SPEEDPLATE tooling is inspired by PUMA’s track running heritage (fast), made of high-performence PEBA material (light), and optimized for direct-speed stability and propulsion (sweet). Ultra-light. Ultra-fast. ULTRA ULTIMATE."
     },
     {
       "id":139,
-      "type":["man","sale","clothing","sports","shirts","football","training","footballApparel","collections","lifestyle","njr",["njr"] ],
+      "type":["men","sale","clothing","sports","shirts","football","training","footballApparel","collections","lifestyle","njr",["njr"] ],
       "productName":"Neymar Jr 24/7 Football Tee Men",
       "cost":2749,
       "costLeft":3849,
@@ -2308,7 +2308,7 @@
     },
     {
       "id":140,
-      "type":["man","shirts","jerseys","clothing","training","sports","football","nationalTeam",["nationalTeam"] ],
+      "type":["men","shirts","jerseys","clothing","training","sports","football","nationalTeam",["nationalTeam"] ],
       "productName":"Senegal Away 22/23 Replica Jersey Men",
       "cost":5367,
       "smTitle":"Taxes & Duties included",
@@ -2324,7 +2324,7 @@
     },
     {
       "id":141,
-      "type":["man","sale","clothing","jerseys","shirts","sports","football","footballApparel","training",["jersey","men"] ],
+      "type":["men","sale","clothing","jerseys","shirts","sports","football","footballApparel","training",["jersey","men"] ],
       "productName":"individualCUP Quarter-Zip Football Top Men",
       "cost":3927,
       "costLeft":5836,
@@ -2337,11 +2337,11 @@
       "imageOne4":"./assets/image/sports/5d.jpg",
       "imageOne5":"./assets/image/sports/5e.jpg",
       "imageOne6":"./assets/image/sports/5f.jpg",
-      "story":"The individualCUP range is all about the future of football training. Including graphic elements, vibrant colours for dynamic players, and our performance technologies, hit the pitch ready to dominate in this quarter-zip."
+      "story":"The individualCUP range is all about the future of football training. Including graphic elements, vibrant colours for dynamic players, and our performence technologies, hit the pitch ready to dominate in this quarter-zip."
     },
     {
       "id":142,
-      "type":["man","clothing","sale","shirts","sports","training","running","football","footballBoots",["training","clothing","men"] ],
+      "type":["men","clothing","sale","shirts","sports","training","running","football","footballBoots",["training","clothing","men"] ],
       "productName":"CLOUDSPUN Short Sleeve Training Tee Men",
       "cost":1726,
       "costLeft":2928,
@@ -2358,7 +2358,7 @@
     },
     {
       "id":143,
-      "type":["man","clothing","shirts","sports","training","running","trending",["training","clothing","men"] ],
+      "type":["men","clothing","shirts","sports","training","running","trending",["training","clothing","men"] ],
       "productName":"Fit Short Sleeve Training Tee Men",
       "cost":1929,
       "smTitle":"Taxes & Duties included",
@@ -2371,11 +2371,11 @@
       "imageOne5":"./assets/image/sports/7e.webp",
       "imageOne6":"./assets/image/sports/7f.webp",
       "vid":"./assets/image/sports/vid/1.mp4",
-      "story":"Fierce, flexible, and ready to move fast, our Fit collection is designed for tough everyday training. Made with lightweight fabrics, and featuring raglan sleeves for freedom of movement, mesh inserts for enhanced breathability, and dryCELL moisture-wicking technology to keep you cool and comfortable as the action intensifies, this tee will have you prepared for performance."
+      "story":"Fierce, flexible, and ready to move fast, our Fit collection is designed for tough everyday training. Made with lightweight fabrics, and featuring raglan sleeves for freedom of movement, mesh inserts for enhanced breathability, and dryCELL moisture-wicking technology to keep you cool and comfortable as the action intensifies, this tee will have you prepared for performence."
     },
     {
       "id":144,
-      "type":["man","clothing","shirts","sports","training","running","football","trending",["training","shirts","men"] ],
+      "type":["men","clothing","shirts","sports","training","running","football","trending",["training","shirts","men"] ],
       "productName":"Favourite Short Sleeve Men's Running Tee",
       "cost":2020,
       "smTitle":"Taxes & Duties included",
@@ -2391,7 +2391,7 @@
     },
     {
       "id":145,
-      "type":["man","clothing","sale","shirts","sports","training","running","football",["running","shirts","men"]],
+      "type":["men","clothing","sale","shirts","sports","training","running","football",["running","shirts","men"]],
       "productName":"RUN FAVOURITE Short Sleeve Running Tee Men",
       "cost":3298,
       "costLeft":4297,
@@ -2404,11 +2404,11 @@
       "imageOne4":"./assets/image/sports/9d.webp",
       "imageOne5":"./assets/image/sports/9e.webp",
       "imageOne6":"./assets/image/sports/9f.webp",
-      "story":"For runners seeking polished, performance-driven pieces, our RUN FAVOURITE collection is crucial. This tee features a lightweight construction, ergonomic cutlines, and dryCELL moisture-wicking technology to keep you cool and comfortable when on the run."
+      "story":"For runners seeking polished, performence-driven pieces, our RUN FAVOURITE collection is crucial. This tee features a lightweight construction, ergonomic cutlines, and dryCELL moisture-wicking technology to keep you cool and comfortable when on the run."
     },
     {
       "id":146,
-      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","clothing","men"]],
+      "type":["men","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","clothing","men"]],
       "productName":"Box Out Short Sleeve Basketball Tee 1 Men",
       "cost":2918,
       "costLeft":4399,
@@ -2425,7 +2425,7 @@
     },
     {
       "id":147,
-      "type":["man","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","shirts","men"]],
+      "type":["men","clothing","sale","shirts","sports","training","running","basketball","basketballapparel",["basketball","shirts","men"]],
       "productName":"Perimeter Basketball Tee",
       "cost":2344,
       "costLeft":3844,
@@ -2443,7 +2443,7 @@
     },
     {
       "id":148,
-      "type":["man","women","glovs","accessories","new","sports","football","footballClubs","footballApparel","egypt","morocco","trending",["gloves","sports"] ],
+      "type":["men","women","glovs","accessories","new","sports","football","footballClubs","footballApparel","egypt","morocco","trending",["gloves","sports"] ],
       "productName":"FUTURE Ultimate Negative Cut Football Goalkeeper Gloves",
       "cost":5827,
       "smTitle":"Taxes & Duties included",
@@ -2455,11 +2455,11 @@
       "imageOne4":"./assets/image/sports/12d.webp",
       "imageOne5":"./assets/image/sports/12e.webp",
       "imageOne6":"./assets/image/sports/12f.webp",
-      "story":"The new FUTURE Ultimate NC is engineered to give your hands maximum freedom of movement and support when you need it on the pitch. Inspired by goalkeeper wrist taping rituals the gloves comes with a specific, re-designed wrist support construction. Using different elasticities and thicknesses in the knit of the backhand, each section of the glove gets its specific treatment to improve the performance even further."
+      "story":"The new FUTURE Ultimate NC is engineered to give your hands maximum freedom of movement and support when you need it on the pitch. Inspired by goalkeeper wrist taping rituals the gloves comes with a specific, re-designed wrist support construction. Using different elasticities and thicknesses in the knit of the backhand, each section of the glove gets its specific treatment to improve the performence even further."
     },
     {
       "id":149,
-      "type":["man","women","glovs","accessories","sports","football","footballClubs","footballApparel","egypt","morocco","milan","olumpique","trending",["gloves","sports"]  ],
+      "type":["men","women","glovs","accessories","sports","football","footballClubs","footballApparel","egypt","morocco","milan","olumpique","trending",["gloves","sports"]  ],
       "productName":"ULTRA Grip 4 RC Goalkeeper Gloves",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2475,7 +2475,7 @@
     },
     {
       "id":150,
-      "type":["man","clothing","shirts","sports","training","yoga","fitness",["yoga","men"] ],
+      "type":["men","clothing","shirts","sports","training","yoga","fitness",["yoga","men"] ],
       "productName":"Studio Ultramove Training Joggers Men",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -2488,11 +2488,11 @@
       "imageOne4":"./assets/image/sports/14d.webp",
       "imageOne5":"./assets/image/sports/14e.webp",
       "imageOne6":"./assets/image/sports/14f.webp",
-      "story":"Designed especially for men, our Studio Ultramove collection utilises a structured yet stretchy signature fabric to support performance during practice. Fierce and flexible, with side seam pockets for storage, a comfortable elastic waistband, and dryCELL moisture-wicking technology for enhanced temperature control, these functional joggers are ready to take centre stage."
+      "story":"Designed especially for men, our Studio Ultramove collection utilises a structured yet stretchy signature fabric to support performence during practice. Fierce and flexible, with side seam pockets for storage, a comfortable elastic waistband, and dryCELL moisture-wicking technology for enhanced temperature control, these functional joggers are ready to take centre stage."
     },
     {
       "id":152,
-      "type":["man","clothing","shirts","jerseys","sports","football","nationalTeam","footballClubs","egypt","trending",["egypt"]  ],
+      "type":["men","clothing","shirts","jerseys","sports","football","nationalTeam","footballClubs","egypt","trending",["egypt"]  ],
       "productName":"Egypt Away 22/23 Replica Jersey Men",
       "cost":7653,
       "smTitle":"Taxes & Duties included",
@@ -2508,7 +2508,7 @@
     },
     {
       "id":153,
-      "type":["man","clothing","shirts","training","yoga","fitness","sports",["short","men"] ],
+      "type":["men","clothing","shirts","training","yoga","fitness","sports",["short","men"] ],
       "productName":"M Studio 2-in-1 Training Shorts Men",
       "cost":2827,
       "smTitle":"Taxes & Duties included",
@@ -2524,7 +2524,7 @@
     },
     {
       "id":154,
-      "type":["man","clothing","shirts","training","yoga","fitness","sports","trending",["training","men"]  ],
+      "type":["men","clothing","shirts","training","yoga","fitness","sports","trending",["training","men"]  ],
       "productName":"Train CLOUDSPUN Training Tee Men",
       "cost":2983,
       "smTitle":"Taxes & Duties included",
@@ -2636,12 +2636,12 @@
       "imageOne4":"./assets/image/sports/23d.webp",
       "imageOne5":"./assets/image/sports/23e.webp",
       "imageOne6":"./assets/image/sports/23f.webp",
-      "story":"The individualBLAZE collection contains specially built football gear for female footballers.Including graphic elements, vibrant colours for dynamic players, and our performance technologies, hit the pitch ready to dominate in this quarter-zip."
+      "story":"The individualBLAZE collection contains specially built football gear for female footballers.Including graphic elements, vibrant colours for dynamic players, and our performence technologies, hit the pitch ready to dominate in this quarter-zip."
     },
     {
       "id":161,
-      "type":["women","clothing","trending" ,"jerseys","shirts","football","footballClubs","manchester","sports",["manchester"] ],
-      "productName":"Manchester City F.C. Home 22/23 Replica Jersey Women",
+      "type":["women","clothing","trending" ,"jerseys","shirts","football","footballClubs","menchester","sports",["menchester"] ],
+      "productName":"menchester City F.C. Home 22/23 Replica Jersey Women",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
       "colors":[3,"blue"],
@@ -2652,11 +2652,11 @@
       "imageOne4":"./assets/image/sports/24d.webp",
       "imageOne5":"./assets/image/sports/24e.webp",
       "imageOne6":"./assets/image/sports/24f.jpg",
-      "story":"From 1967 to 1971, no team could match the style and swagger of Manchester City F.C.. Their pass-and-move, end-to-end attacking football was simply ahead of its time. So, when they went on to win every domestic title and top it off with the European Cup Winners’ Cup, they did so in a way that, half a century on, inspires the new generation of Cityzens as they continue to push boundaries at home and in Europe. This season, Manchester City F.C. and PUMA honor the team of swashbuckling entertainers and their leader: club icon Colin Bell. The 2022/23 Manchester City F.C. Home kit echoes the classic designs of their era, placing the club crest at the center and burgundy trims on the sleeve cuffs. The crown logo inside the neckline pays tribute to “Colin the King”."
+      "story":"From 1967 to 1971, no team could match the style and swagger of menchester City F.C.. Their pass-and-move, end-to-end attacking football was simply ahead of its time. So, when they went on to win every domestic title and top it off with the European Cup Winners’ Cup, they did so in a way that, half a century on, inspires the new generation of Cityzens as they continue to push boundaries at home and in Europe. This season, menchester City F.C. and PUMA honor the team of swashbuckling entertainers and their leader: club icon Colin Bell. The 2022/23 menchester City F.C. Home kit echoes the classic designs of their era, placing the club crest at the center and burgundy trims on the sleeve cuffs. The crown logo inside the neckline pays tribute to “Colin the King”."
     },
     {
       "id":162,
-      "type":["women","clothing","shirts","training","running","nitro","sports",["training","woman","clothing"]],
+      "type":["women","clothing","shirts","training","running","nitro","sports",["training","women","clothing"]],
       "productName":"Favourite Short Sleeve Women's Running Tee",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -2668,7 +2668,7 @@
       "imageOne4":"./assets/image/sports/25d.webp",
       "imageOne5":"./assets/image/sports/25e.webp",
       "imageOne6":"./assets/image/sports/25f.webp",
-      "story":"Life in the fast lane is all about performance. The Favourite Short Sleeve Women's Running Tee performs on point with its lightweight, breathable fabric, and helps you stay dry with PUMA's signature dryCELL technology."
+      "story":"Life in the fast lane is all about performence. The Favourite Short Sleeve Women's Running Tee performs on point with its lightweight, breathable fabric, and helps you stay dry with PUMA's signature dryCELL technology."
     },
     {
       "id":163,
@@ -2705,7 +2705,7 @@
     },
     {
       "id":165,
-      "type":["women","clothing","sale","jerseys","shirts","training","running","yoga","gem","fitness","sports",["woman","jerseys"] ],
+      "type":["women","clothing","sale","jerseys","shirts","training","running","yoga","gem","fitness","sports",["women","jerseys"] ],
       "productName":"Favourite Jersey Cat Training Tee Women",
       "cost":1827,
       "costLeft":2654,
@@ -2723,7 +2723,7 @@
     },
     {
       "id":166,
-      "type":["women","clothing","jerseys","shirts","training","running","yoga","gem","fitness","sports",["woman","jerseys"]],
+      "type":["women","clothing","jerseys","shirts","training","running","yoga","gem","fitness","sports",["women","jerseys"]],
       "productName":"Fit Logo Training Tank Top Women",
       "cost":1726,
       "smTitle":"Taxes & Duties included",
@@ -2736,7 +2736,7 @@
       "imageOne4":"./assets/image/sports/29d.webp",
       "imageOne5":"./assets/image/sports/29e.webp",
       "imageOne6":"./assets/image/sports/29f.webp",
-      "story":"Performance features combine with eye-catching PUMA branding in this training tank top for a powerful look and feel. The shirt-tail hem makes for a more dynamic fit, and you can feel cool and comfortable as you reach towards your goals thanks to our moisture-wicking dryCELL technology. Whether you run in it, hit the gym in it, or compete in it, channel the passion of PUMA and perform at your best."
+      "story":"Performence features combine with eye-catching PUMA branding in this training tank top for a powerful look and feel. The shirt-tail hem makes for a more dynamic fit, and you can feel cool and comfortable as you reach towards your goals thanks to our moisture-wicking dryCELL technology. Whether you run in it, hit the gym in it, or compete in it, channel the passion of PUMA and perform at your best."
     },
     {
       "id":167,
@@ -2769,11 +2769,11 @@
       "imageOne4":"./assets/image/sports/31d.webp",
       "imageOne5":"./assets/image/sports/31e.webp",
       "imageOne6":"./assets/image/sports/31f.webp",
-      "story":"Shape your performance in new and thrilling ways in these shapely leggings. Smoothing and supportive EVERSCULPT fabric contours the figure while the futuristic all-over foil print adds a fashion-forward touch."
+      "story":"Shape your performence in new and thrilling ways in these shapely leggings. Smoothing and supportive EVERSCULPT fabric contours the figure while the futuristic all-over foil print adds a fashion-forward touch."
     },
     {
       "id":169,
-      "type":["women","man","shoes","trending" ,"collections","lifestyle","sustainable","motorSport","sports","ferrari",["ferrari"]],
+      "type":["women","men","shoes","trending" ,"collections","lifestyle","sustainable","motorSport","sports","ferrari",["ferrari"]],
       "productName":"Scuderia Ferrari Drift Cat Decima Motorsport Shoes",
       "cost":8476,
       "smTitle":"Taxes & Duties included",
@@ -2785,11 +2785,11 @@
       "imageOne4":"./assets/image/sports/32d.webp",
       "imageOne5":"./assets/image/sports/32e.webp",
       "imageOne6":"./assets/image/sports/32f.webp",
-      "story":"Shape your performance in new and thrilling ways in these shapely leggings. Smoothing and supportive EVERSCULPT fabric contours the figure while the futuristic all-over foil print adds a fashion-forward touch."
+      "story":"Shape your performence in new and thrilling ways in these shapely leggings. Smoothing and supportive EVERSCULPT fabric contours the figure while the futuristic all-over foil print adds a fashion-forward touch."
     },
     {
       "id":170,
-      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
+      "type":["women","men","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport Drift Cat Decima Motorsport Shoes",
       "cost":7987,
       "smTitle":"Taxes & Duties included",
@@ -2805,7 +2805,7 @@
     },
     {
       "id":171,
-      "type":["women","man","shoes","sports","collections","lifestyle","sustainable","motorSport","mercedesAmg",["mercedesAmg"]],
+      "type":["women","men","shoes","sports","collections","lifestyle","sustainable","motorSport","mercedesAmg",["mercedesAmg"]],
       "productName":"Mercedes-AMG Petronas Motorsport Maco SL Motorsport Shoes",
       "cost":9887,
       "smTitle":"Taxes & Duties included",
@@ -2821,7 +2821,7 @@
     },
     {
       "id":172,
-      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
+      "type":["women","men","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport SPEEDFUSION Motorsport Shoes",
       "cost":5887,
       "costLeft":7387,
@@ -2838,7 +2838,7 @@
     },
     {
       "id":173,
-      "type":["women","man","sale","shoes","sports","motorSport","collections","lifestyle","sustainable","mercedesAmg",["mercedesAmg"]],
+      "type":["women","men","sale","shoes","sports","motorSport","collections","lifestyle","sustainable","mercedesAmg",["mercedesAmg"]],
       "productName":"Mercedes-AMG Petronas Motorsport RS-X Motorsport Shoes",
       "cost":9887,
       "costLeft":11387,
@@ -2855,7 +2855,7 @@
     },
     {
       "id":174,
-      "type":["women","man","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","speedCat",["suede"]],
+      "type":["women","men","sale","shoes","sports","collections","lifestyle","sustainable","motorSport","speedCat",["suede"]],
       "productName":"PUMA x SPARCO SPEEDFUSION Driving Shoes",
       "cost":3987,
       "costLeft":6357,
@@ -2872,7 +2872,7 @@
     },
     {
       "id":175,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
+      "type":["women","men","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Leadcat 2.0 Sandals",
       "cost":2987,
       "smTitle":"Taxes & Duties included",
@@ -2888,7 +2888,7 @@
     },
     {
       "id":176,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
+      "type":["women","men","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
       "productName":"Shibui Cat Sandals",
       "cost":2362,
       "smTitle":"Taxes & Duties included",
@@ -2904,7 +2904,7 @@
     },
     {
       "id":177,
-      "type":["women","man","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
+      "type":["women","men","shoes","sandals","sports","othorSport","swimwear",["sandals"]],
       "productName":"Royalcat Comfort Sandals",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -2916,11 +2916,11 @@
       "imageOne4":"./assets/image/sports/40d.webp",
       "imageOne5":"./assets/image/sports/40e.webp",
       "imageOne6":"./assets/image/sports/40f.webp",
-      "story":"Stride like a king in the superior performance and comfort of our Royalcat Comfort Sandals, featuring a sleek design and fully adjustable upper to ensure a fit that feels fit for royalty."
+      "story":"Stride like a king in the superior performence and comfort of our Royalcat Comfort Sandals, featuring a sleek design and fully adjustable upper to ensure a fit that feels fit for royalty."
     },
     {
       "id":178,
-      "type":["women","man","accessories","bags","sports","motorSport","bmw",["bmw"]],
+      "type":["women","men","accessories","bags","sports","motorSport","bmw",["bmw"]],
       "productName":"BMW M Motorsport Waist Bag",
       "cost":2871,
       "smTitle":"Taxes & Duties included",
@@ -2936,7 +2936,7 @@
     },
     {
       "id":179,
-      "type":["women","man","trending" ,"kids","boys","girls","accessories","shoeCare","sports","othorSport","sportEquipment","fitness","gemAcc",["gemAcc"]],
+      "type":["women","men","trending" ,"kids","boys","girls","accessories","shoeCare","sports","othorSport","sportEquipment","fitness","gemAcc",["gemAcc"]],
       "productName":"PUMA Training Water Bottle",
       "cost":1928,
       "costLeft":2187,
@@ -2953,7 +2953,7 @@
     },
     {
       "id":180,
-      "type":["man","women","sale","kids","boys","girls","balls","sportEquipment","accessories","shoeCare","sports","football","footballApparel",["sportEquipment"] ],
+      "type":["men","women","sale","kids","boys","girls","balls","sportEquipment","accessories","shoeCare","sports","football","footballApparel",["sportEquipment"] ],
       "productName":"Prestige Football",
       "cost":1293,
       "costLeft":2132,
@@ -2961,16 +2961,16 @@
       "colors":[3,"multi"],
       "size":[],
       "imageOne1":"./assets/image/others/3a.webp",
-      "imageOne2":"./assets/image/others/3b.webp",
-      "imageOne3":"./assets/image/others/3c.jpg",
-      "imageOne4":"./assets/image/others/3d.jpg",
-      "imageOne5":"./assets/image/others/3b.webp",
-      "imageOne6":"./assets/image/others/3c.jpg",
+      "imageOne2":"./assets/image/others/3b.jpg",
+      "imageOne3":"./assets/image/others/3c.webp",
+      "imageOne4":"./assets/image/others/3a.webp",
+      "imageOne5":"./assets/image/others/3d.jpg",
+      "imageOne6":"./assets/image/others/3c.webp",
       "story":"Fancy a kick-around? Grab this heritage-inspired football and get ready to go, whether you’re playing with friends or practising your footwork."
     },
     {
       "id":181,
-      "type":["man","women","accessories","shoeCare","sportEquipment","sports","football","footballApparel",["sportEquipment"] ],
+      "type":["men","women","accessories","shoeCare","sportEquipment","sports","football","footballApparel",["sportEquipment"] ],
       "productName":"ULTRA Flex Sleeve Football Shin Guards",
       "cost":5367,
       "smTitle":"Taxes & Duties included",
@@ -2986,7 +2986,7 @@
     },
     {
       "id":182,
-      "type":["man","women","sale","trending" ,"accessories","hats","sports","motorSport","bmw",["bmw"] ],
+      "type":["men","women","sale","trending" ,"accessories","hats","sports","motorSport","bmw",["bmw"] ],
       "productName":"BMW M Motorsport BB Cap",
       "cost":3927,
       "costLeft":5836,
@@ -3003,7 +3003,7 @@
     },
     {
       "id":183,
-      "type":["man","women","sale","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
+      "type":["men","women","sale","shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Divecat v2 Lite Slide",
       "cost":1726,
       "costLeft":2928,
@@ -3020,7 +3020,7 @@
     },
     {
       "id":184,
-      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
+      "type":["men","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Porsche Legacy Leadcat 2.0 Slides",
       "cost":3855,
       "smTitle":"Taxes & Duties included",
@@ -3036,7 +3036,7 @@
     },
     {
       "id":185,
-      "type":["man","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
+      "type":["men","women","trending" ,"shoes","sandals","sports","othorSport","swimwear",["sandals"] ],
       "productName":"Cool Cat 2.0 Flower Slides Women",
       "cost":5398,
       "smTitle":"Taxes & Duties included",
@@ -3052,7 +3052,7 @@
     },
     {
       "id":186,
-      "type":["man","clothing","sale","short","sports","football","footballClubs","milan",["milan"] ],
+      "type":["men","clothing","sale","short","sports","football","footballClubs","milan",["milan"] ],
       "productName":"A.C. Milan 22/23 Replica Shorts Men",
       "cost":2837,
       "costLeft":4297,
@@ -3069,7 +3069,7 @@
     },
     {
       "id":187,
-      "type":["man","women","sale","clothing","short","sports","training","running","nitro",["running","short"] ],
+      "type":["men","women","sale","clothing","short","sports","training","running","nitro",["running","short"] ],
       "productName":"Run Split Running Shorts Men",
       "cost":2918,
       "costLeft":4399,
@@ -3082,11 +3082,11 @@
       "imageOne4":"./assets/image/others/10d.webp",
       "imageOne5":"./assets/image/others/10e.webp",
       "imageOne6":"./assets/image/others/10f.webp",
-      "story":"When it’s time for your training, grab these timeless running shorts for the perfect blend of comfort and performance – and get ready to go. They’re your best ally and a must-have addition to any runner’s wardrobe."
+      "story":"When it’s time for your training, grab these timeless running shorts for the perfect blend of comfort and performence – and get ready to go. They’re your best ally and a must-have addition to any runner’s wardrobe."
     },
     {
       "id":188,
-      "type":["man","clothing","sale","short","sports","training","running","nitro",["short","sports"] ],
+      "type":["men","clothing","sale","short","sports","training","running","nitro",["short","sports"] ],
       "productName":"Fandom Printed Shorts Men",
       "cost":2643,
       "costLeft":3844,
@@ -3104,7 +3104,7 @@
     },
     {
       "id":189,
-      "type":["man","clothing","trending" ,"basketball","basketballapparel","short","sports","training","running","nitro",["short","sports"] ],
+      "type":["men","clothing","trending" ,"basketball","basketballapparel","short","sports","training","running","nitro",["short","sports"] ],
       "productName":"Spin Move Basketball Shorts Men",
       "cost":2928,
       "smTitle":"Taxes & Duties included",
@@ -3120,7 +3120,7 @@
     },
     {
       "id":190,
-      "type":["man","clothing","trending" ,"short","sports","football","training","running","nitro",["short","sports"]],
+      "type":["men","clothing","trending" ,"short","sports","football","training","running","nitro",["short","sports"]],
       "productName":"Run Favourite Velocity 7'' Running Shorts Men",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -3218,7 +3218,7 @@
     },
     {
       "id":196,
-      "type":["women","man","clothing","short","sports","running","nitro","collections","lifestyle","cocaCola",["cocaCola"]],
+      "type":["women","men","clothing","short","sports","running","nitro","collections","lifestyle","cocaCola",["cocaCola"]],
       "productName":"PUMA x COCA-COLA Shorts",
       "cost":4837,
       "smTitle":"Taxes & Duties included",
@@ -3234,7 +3234,7 @@
     },
     {
       "id":197,
-      "type":["women","trending" ,"man","clothing","short","sports","running","training","nitro","collections","lifestyle","njr",["njr"]],
+      "type":["women","trending" ,"men","clothing","short","sports","running","training","nitro","collections","lifestyle","njr",["njr"]],
       "productName":"Neymar Jr 24/7 Football Shorts",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -3250,7 +3250,7 @@
     },
     {
       "id":198,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","football","footballApparel",["footballApparel"]],
+      "type":["men","trending" ,"clothing","shirts","jerseys","sports","football","footballApparel",["footballApparel"]],
       "productName":"individualCUP Football Jersey Men",
       "cost":1625,
       "smTitle":"Taxes & Duties included",
@@ -3262,12 +3262,12 @@
       "imageOne4":"./assets/image/others/21d.webp",
       "imageOne5":"./assets/image/others/21e.webp",
       "imageOne6":"./assets/image/others/21f.webp",
-      "story":"The individualCUP range is all about the future of football training. Including graphic elements, vibrant colours for dynamic players, and our performance technologies, hit the pitch ready to dominate in this jersey."
+      "story":"The individualCUP range is all about the future of football training. Including graphic elements, vibrant colours for dynamic players, and our performence technologies, hit the pitch ready to dominate in this jersey."
     },
     {
       "id":199,
-      "type":["man","trending","sale" ,"clothing","shirts","jerseys","sports","new","football","manchester","footballClubs",["manchester"]],
-      "productName":"Manchester City F.C. Prematch Jersey Men",
+      "type":["men","trending","sale" ,"clothing","shirts","jerseys","sports","new","football","menchester","footballClubs",["menchester"]],
+      "productName":"menchester City F.C. Prematch Jersey Men",
       "cost":3279,
       "costLeft":4928,
       "smTitle":"Taxes & Duties included",
@@ -3279,11 +3279,11 @@
       "imageOne4":"./assets/image/others/22d.webp",
       "imageOne5":"./assets/image/others/22e.webp",
       "imageOne6":"./assets/image/others/22f.webp",
-      "story":"Cityzens, light up Etihad just like the pros in this Manchester City F.C. prematch jersey crafted with a lightweight, moisture-wicking construction to prepare you for footballing excellence."
+      "story":"Cityzens, light up Etihad just like the pros in this menchester City F.C. prematch jersey crafted with a lightweight, moisture-wicking construction to prepare you for footballing excellence."
     },
     {
       "id":200,
-      "type":["man","clothing","shirts","jerseys","sports","training","football","footballClubs","olumpique",["olumpique"]],
+      "type":["men","clothing","shirts","jerseys","sports","training","football","footballClubs","olumpique",["olumpique"]],
       "productName":"Olympique de Marseille Football Training Jersey Men",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -3295,11 +3295,11 @@
       "imageOne4":"./assets/image/others/23d.webp",
       "imageOne5":"./assets/image/others/23e.webp",
       "imageOne6":"./assets/image/others/23f.webp",
-      "story":"Allez l’OM! Take control of the pitch just like Olympique de Marseille in this top-notch training jersey designed for dominating performances. Its dynamic, lightweight, moisture-wicking construction will keep you fresh during even the most strenuous practices, just like Les Olympiens."
+      "story":"Allez l’OM! Take control of the pitch just like Olympique de Marseille in this top-notch training jersey designed for dominating performences. Its dynamic, lightweight, moisture-wicking construction will keep you fresh during even the most strenuous practices, just like Les Olympiens."
     },
     {
       "id":201,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam",["nationalTeam"]],
+      "type":["men","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam",["nationalTeam"]],
       "productName":"Italy Home 22/23 Replica Jersey Men",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -3315,7 +3315,7 @@
     },
     {
       "id":202,
-      "type":["man","clothing","shoes","jerseys","sports","training","running","trackmeet",["short","sports"]],
+      "type":["men","clothing","shoes","jerseys","sports","training","running","trackmeet",["short","sports"]],
       "productName":"Track Meet Shorts Men",
       "cost":4938,
       "smTitle":"Taxes & Duties included",
@@ -3327,11 +3327,11 @@
       "imageOne4":"./assets/image/helperData/2d.webp",
       "imageOne5":"./assets/image/helperData/2e.webp",
       "imageOne6":"./assets/image/helperData/2f.webp",
-      "story":"For the past 75 years, we've made sports shoes and apparel for ultimate performance. And to celebrate our anniversary, we've created the Track Meet collection that relives our past achievements through a modern lens. These shorts are built for movement at all speeds, thanks to a lightweight construction and moisture-wicking dryCELL technology."
+      "story":"For the past 75 years, we've made sports shoes and apparel for ultimate performence. And to celebrate our anniversary, we've created the Track Meet collection that relives our past achievements through a modern lens. These shorts are built for movement at all speeds, thanks to a lightweight construction and moisture-wicking dryCELL technology."
     },
     {
       "id":203,
-      "type":["man","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam","morocco",["nationalTeam"]],
+      "type":["men","trending" ,"clothing","shirts","jerseys","sports","training","football","nationalTeam","morocco",["nationalTeam"]],
       "productName":"Morocco Home 22/23 Replica Jersey Men",
       "cost":3928,
       "smTitle":"Taxes & Duties included",
@@ -3363,7 +3363,7 @@
     },
     {
       "id":205,
-      "type":["man","trending" ,"clothing","jerseys","shirts","sports","training","football","footballClubs",["footballClubs"]],
+      "type":["men","trending" ,"clothing","jerseys","shirts","sports","training","football","footballClubs",["footballClubs"]],
       "productName":"Borussia Dortmund Cup 22/23 Replica Jersey Men",
       "cost":4937,
       "smTitle":"Taxes & Duties included",
@@ -3379,7 +3379,7 @@
     },
     {
       "id":206,
-      "type":["man","trending","sale" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers",["cocaCola"] ],
+      "type":["men","trending","sale" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers",["cocaCola"] ],
       "productName":"PUMA x COCA-COLA Rider FV Sneakers",
       "cost":8987,
       "costLeft":10092,
@@ -3396,7 +3396,7 @@
     },
     {
       "id":207,
-      "type":["man","trending" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers","suede",["cocaCola"] ],
+      "type":["men","trending" ,"women","kids","girls","boys","shoes","collections","lifestyle","cocaCola","sneakers","suede",["cocaCola"] ],
       "productName":"PUMA x COCA-COLA Suede Sneakers",
       "cost":9830,
       "smTitle":"Taxes & Duties included",
@@ -3412,7 +3412,7 @@
     },
     {
       "id":208,
-      "type":["man","clothing","pants","collections","select","players",["players"] ],
+      "type":["men","clothing","pants","collections","select","players",["players"] ],
       "productName":"Players' Lounge Track Pants Men",
       "cost":4736,
       "smTitle":"Taxes & Duties included",
@@ -3428,7 +3428,7 @@
     },
     {
       "id":209,
-      "type":["man","shoes","sale","sneakers","collections","select","players",["players"]],
+      "type":["men","shoes","sale","sneakers","collections","select","players",["players"]],
       "productName":"Players' Lounge RX 737 Sneakers",
       "cost":4738,
       "costLeft":7837,
@@ -3445,7 +3445,7 @@
     },
     {
       "id":210,
-      "type":["man","trending" ,"shirts","clothing","polo","collections","select","players",["players"]],
+      "type":["men","trending" ,"shirts","clothing","polo","collections","select","players",["players"]],
       "productName":"Players' Lounge Polo Shirt Men",
       "cost":8476,
       "smTitle":"Taxes & Duties included",
@@ -3461,7 +3461,7 @@
     },
     {
       "id":211,
-      "type":["man","women","accessories","backPacks","bags","collections","select","players",["players"]],
+      "type":["men","women","accessories","backPacks","bags","collections","select","players",["players"]],
       "productName":"Players' Lounge Grip Bag Men",
       "cost":5938,
       "smTitle":"Taxes & Duties included",
@@ -3477,7 +3477,7 @@
     },
     {
       "id":212,
-      "type":["women","man","accessories","hats","collections","select","players",["players"]],
+      "type":["women","men","accessories","hats","collections","select","players",["players"]],
       "productName":"Players' Lounge Cap Men",
       "cost":9887,
       "smTitle":"Taxes & Duties included",
@@ -3493,7 +3493,7 @@
     },
     {
       "id":213,
-      "type":["women","sale","man","shoes","sneakers","running","training","nitro","roodRunning","sports",["roodRunning"] ],
+      "type":["women","sale","men","shoes","sneakers","running","training","nitro","roodRunning","sports",["roodRunning"] ],
       "productName":"Deviate NITRO 2 Men's Running Shoes",
       "cost":8938,
       "costLeft":10928,
@@ -3506,7 +3506,7 @@
       "imageOne4":"./assets/image/others/35b.webp",
       "imageOne5":"./assets/image/others/35e.webp",
       "imageOne6":"./assets/image/others/35f.webp",
-      "story":"The Deviate NITRO 2 – just like v1, only improved. It’s the max cushion, max performance running shoe that makes going faster even easier. The update includes NITRO Elite foam for improved responsiveness, a reworked collar to reduce heel slip, and a lighter, asymmetrical base that works better with your body across all distances – be it short runs, marathons, and even ultras."
+      "story":"The Deviate NITRO 2 – just like v1, only improved. It’s the max cushion, max performence running shoe that makes going faster even easier. The update includes NITRO Elite foam for improved responsiveness, a reworked collar to reduce heel slip, and a lighter, asymmetrical base that works better with your body across all distances – be it short runs, marathons, and even ultras."
     },
     {
       "id":214,
@@ -3540,11 +3540,11 @@
       "imageOne4":"./assets/image/others/37d.webp",
       "imageOne5":"./assets/image/others/37e.webp",
       "imageOne6":"./assets/image/others/37f.webp",
-      "story":"Named for the woman-specific double X chromosome DNA sequence, the Run XX NITRO WNS stands behind PUMA’s RUN FOR HER motto with a progressive, female-specific design. Featuring an updated fit that hugs a woman’s foot at the heel, instep, and arch, the running shoe’s new, firmer NITRO midsole is the perfect balance of durable and lightweight. RUNGUIDE promotes proper alignment and increased stability for longer distances."
+      "story":"Named for the women-specific double X chromosome DNA sequence, the Run XX NITRO WNS stands behind PUMA’s RUN FOR HER motto with a progressive, female-specific design. Featuring an updated fit that hugs a women’s foot at the heel, instep, and arch, the running shoe’s new, firmer NITRO midsole is the perfect balance of durable and lightweight. RUNGUIDE promotes proper alignment and increased stability for longer distances."
     },
     {
       "id":216,
-      "type":["women","man","sale","accessories","glovs","sports","fitness","gem","gemAcc",["glovs"]],
+      "type":["women","men","sale","accessories","glovs","sports","fitness","gem","gemAcc",["glovs"]],
       "productName":"Gym Women's Training Gloves",
       "cost":1928,
       "costLeft":2528,
@@ -3561,8 +3561,8 @@
     },
     {
       "id":217,
-      "type":["women","man","bags","accessories","sports","othorSport","sportEquipment","fitness","gemAcc","running","nitro",["bags"]],
-      "productName":"Performance Running Classic Waist Bag",
+      "type":["women","men","bags","accessories","sports","othorSport","sportEquipment","fitness","gemAcc","running","nitro",["bags"]],
+      "productName":"Performence Running Classic Waist Bag",
       "cost":1493,
       "smTitle":"Taxes & Duties included",
       "colors":[4,"green"],
@@ -3573,7 +3573,7 @@
       "imageOne4":"./assets/image/others/39d.webp",
       "imageOne5":"./assets/image/others/39e.webp",
       "imageOne6":"./assets/image/others/39f.webp",
-      "story":"Don't be caught out on a run again without your phone, wallet or keys. This simple running waist bag has a zip opening into the main compartment, a zip pocket on top and an adjustable webbing waist strap for the perfect fit. Add to that reflective details on the front and reflective webbing trim and this is a bag that demands to be seen."
+      "story":"Don't be caught out on a run again without your phone, wallet or keys. This simple running waist bag has a zip opening into the main compartment, a zip pocket on top and an adjustable webbing waist strap for the perfect fit. Add to that reflective details on the front and reflective webbing trim and this is a bag that demends to be seen."
     },
     {
       "id":218,
@@ -3693,7 +3693,7 @@
     },
     {
       "id":225,
-      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
+      "type":["kids","trending" ,"boys","men","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
       "productName":"PUMA x POKÉMON Suede Squirtle Sneakers Youth",
       "cost":3855,
       "smTitle":"Taxes & Duties included",
@@ -3709,8 +3709,8 @@
     },
     {
       "id":226,
-      "type":["kids","trending" ,"boys","man","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
-      "productName":"PUMA x POKÉMON Sliptream Lo Charmander Sneakers Youth",
+      "type":["kids","trending" ,"boys","men","women","sneakers","girls","shoes","collections","lifestyle","pokemon",["pokemon","shoes"]],
+      "productName":"PUMA x POKÉMON Sliptream Lo Charmender Sneakers Youth",
       "cost":5398,
       "smTitle":"Taxes & Duties included",
       "colors":[3,"orange"],
@@ -3721,7 +3721,7 @@
       "imageOne4":"./assets/image/kids/8d.webp",
       "imageOne5":"./assets/image/kids/8e.webp",
       "imageOne6":"./assets/image/kids/8e.webp",
-      "story":"The PUMA x POKÉMON collection is inspired by some of the most iconic POKÉMON, and we take some of their instantly recognisable elements to give this Slipstream Lo a splash of POKÉMON DNA. Eye-catching colours, statement graphics, Charmander-inspired details – it’s all here. Are you gonna catch ‘em all?"
+      "story":"The PUMA x POKÉMON collection is inspired by some of the most iconic POKÉMON, and we take some of their instantly recognisable elements to give this Slipstream Lo a splash of POKÉMON DNA. Eye-catching colours, statement graphics, Charmender-inspired details – it’s all here. Are you gonna catch ‘em all?"
     },
     {
       "id":227,
@@ -3808,7 +3808,7 @@
     },
     {
       "id":232,
-      "type":["kids","boys","shoes","man","football",["football","shoes"] ],
+      "type":["kids","boys","shoes","men","football",["football","shoes"] ],
       "productName":"FUTURE Match FG/AG Football Boots Youth",
       "cost":3827,
       "smTitle":"Taxes & Duties included",
@@ -3825,7 +3825,7 @@
     },
     {
       "id":233,
-      "type":["kids","trending" ,"sale","boys","shoes","man","football",["football","shoes"]],
+      "type":["kids","trending" ,"sale","boys","shoes","men","football",["football","shoes"]],
       "productName":"FUTURE Play TT Football Boots Youth",
       "cost":2917,
       "costLeft":3217,
@@ -3842,7 +3842,7 @@
     },
     {
       "id":234,
-      "type":["kids","boys","shoes","man","football",["football","shoes"]],
+      "type":["kids","boys","shoes","men","football",["football","shoes"]],
       "productName":"FUTURE Play FG/AG Football Boots Youth",
       "cost":3928,
       "size":[28,30,32,34,36,38],
@@ -3886,7 +3886,7 @@
       "imageOne4":"./assets/image/kids/18d.webp",
       "imageOne5":"./assets/image/kids/18e.webp",
       "imageOne6":"./assets/image/kids/18f.webp",
-      "story":"Made using the same shape as our high-performance Velocity Nitro model, the Twitch Runner has speed and agility in its DNA. A durable rubber outsole gives you excellent traction on any surface, and the mesh upper ensures optimal breathability. A lightweight CMEVA midsole and SoftFoam+ sockliner provide lightweight cushioning with every stride – all packaged in an understated yet powerfully stylish shoe."
+      "story":"Made using the same shape as our high-performence Velocity Nitro model, the Twitch Runner has speed and agility in its DNA. A durable rubber outsole gives you excellent traction on any surface, and the mesh upper ensures optimal breathability. A lightweight CMEVA midsole and SoftFoam+ sockliner provide lightweight cushioning with every stride – all packaged in an understated yet powerfully stylish shoe."
     },
     {
       "id":237,
@@ -4003,7 +4003,7 @@
     },
     {
       "id":244,
-      "type":["kids","trending" ,"boys","football","clothing","man","milan","footballClubs",["kids","football"] ],
+      "type":["kids","trending" ,"boys","football","clothing","men","milan","footballClubs",["kids","football"] ],
       "productName":"A.C. Milan Home 22/23 Replica Jersey Youth",
       "cost":4938,
       "smTitle":"Taxes & Duties included",
@@ -4036,7 +4036,7 @@
     },
     {
       "id":246,
-      "type":["kids","trending","sale" ,"boys","football","clothing","man","pants","collections","lifestyle","njr",["njr"]],
+      "type":["kids","trending","sale" ,"boys","football","clothing","men","pants","collections","lifestyle","njr",["njr"]],
       "productName":"Neymar Jr 24/7 Football Tee Youth",
       "cost":3922,
       "costLeft":4929,
@@ -4053,7 +4053,7 @@
     },
     {
       "id":247,
-      "type":["kids","trending" ,"boys","football","clothing","man","footballClubs",["kids","football"]],
+      "type":["kids","trending" ,"boys","football","clothing","men","footballClubs",["kids","football"]],
       "productName":"Bapy Clup Traning Home 22/23 mini Kit",
       "cost":2938,
       "smTitle":"Taxes & Duties included",
@@ -4065,12 +4065,12 @@
       "imageOne4":"./assets/image/kids/29d.webp",
       "imageOne5":"./assets/image/kids/29e.webp",
       "imageOne6":"./assets/image/kids/29f.webp",
-      "story":"Your little one may not be Manchester City F.C.’s star player yet, but they’ll be dressed ready for the call-up in this home mini kit. With a replica jersey, shorts, and socks, it’s just like the version worn by the pros on match day – only in a size appropriate for your little superstar."
+      "story":"Your little one may not be menchester City F.C.’s star player yet, but they’ll be dressed ready for the call-up in this home mini kit. With a replica jersey, shorts, and socks, it’s just like the version worn by the pros on match day – only in a size appropriate for your little superstar."
     },
     {
       "id":248,
-      "type":["kids","boys","sale","football","clothing","man","footballClubs",["kids","football"]],
-      "productName":"Manchester City F.C. Home 22/23 Replica Jersey Youth",
+      "type":["kids","boys","sale","football","clothing","men","footballClubs",["kids","football"]],
+      "productName":"menchester City F.C. Home 22/23 Replica Jersey Youth",
       "cost":4736,
       "costLeft":5738,
       "smTitle":"Taxes & Duties included",
@@ -4082,11 +4082,11 @@
       "imageOne4":"./assets/image/kids/30d.webp",
       "imageOne5":"./assets/image/kids/30e.webp",
       "imageOne6":"./assets/image/kids/30f.webp",
-      "story":"From 1967 to 1971, no team could match the style and swagger of Manchester City F.C.. Their pass-and-move, end-to-end attacking football was simply ahead of its time. So, when they went on to win every domestic title and top it off with the European Cup Winners’ Cup, they did so in a way that, half a century on, inspires the new generation of Cityzens as they continue to push boundaries at home and in Europe. This season, Manchester City F.C. and PUMA honor the team of swashbuckling entertainers and their leader: club icon Colin Bell. The 2022/23 Manchester City F.C. Home kit echoes the classic designs of their era, placing the club crest at the center and burgundy trims on the sleeve cuffs. The crown logo inside the neckline pays tribute to “Colin the King”."
+      "story":"From 1967 to 1971, no team could match the style and swagger of menchester City F.C.. Their pass-and-move, end-to-end attacking football was simply ahead of its time. So, when they went on to win every domestic title and top it off with the European Cup Winners’ Cup, they did so in a way that, half a century on, inspires the new generation of Cityzens as they continue to push boundaries at home and in Europe. This season, menchester City F.C. and PUMA honor the team of swashbuckling entertainers and their leader: club icon Colin Bell. The 2022/23 menchester City F.C. Home kit echoes the classic designs of their era, placing the club crest at the center and burgundy trims on the sleeve cuffs. The crown logo inside the neckline pays tribute to “Colin the King”."
     },
     {
       "id":249,
-      "type":["kids","boys","sale","football","clothing","man","nationalTeam",["kids","football"]],
+      "type":["kids","boys","sale","football","clothing","men","nationalTeam",["kids","football"]],
       "productName":"Italy Away 22/23 Replica Jersey Youth",
       "cost":2837,
       "costLeft":3277,
@@ -4233,7 +4233,7 @@
     },
     {
       "id":258,
-      "type":["kids","boys","girls","women","man","backPacks","bags","accessories",["bags","kids"]],
+      "type":["kids","boys","girls","women","men","backPacks","bags","accessories",["bags","kids"]],
       "productName":"Phase Small Youth Backpack",
       "cost":1928,
       "smTitle":"Taxes & Duties included",
@@ -4281,7 +4281,7 @@
     },
     {
       "id":261,
-      "type":["kids","women","boys","bags","girls","accessories",["woman","bags"]],
+      "type":["kids","women","boys","bags","girls","accessories",["women","bags"]],
       "productName":"PUMA Sense Waist Bag",
       "cost":4422,
       "smTitle":"Taxes & Duties included",
@@ -4463,7 +4463,7 @@
     },
     {
       "id":272,
-      "type":["man","short","clothing","sports","running","training","trackmeet",["men","short"]],
+      "type":["men","short","clothing","sports","running","training","trackmeet",["men","short"]],
       "productName":"Track Meet Shorts Men",
       "cost":4529,
       "smTitle":"Taxes & Duties included",
@@ -4475,7 +4475,7 @@
       "imageOne4":"./assets/image/helperData/3d.webp",
       "imageOne5":"./assets/image/helperData/3e.webp",
       "imageOne6":"./assets/image/helperData/3f.webp",
-      "story":"For the past 75 years, we've made sports shoes and apparel for ultimate performance. And to celebrate our anniversary, we've created the Track Meet collection that relives our past achievements through a modern lens. These shorts are built for movement at all speeds, thanks to a lightweight construction and moisture-wicking dryCELL technology."
+      "story":"For the past 75 years, we've made sports shoes and apparel for ultimate performence. And to celebrate our anniversary, we've created the Track Meet collection that relives our past achievements through a modern lens. These shorts are built for movement at all speeds, thanks to a lightweight construction and moisture-wicking dryCELL technology."
     },
     {
       "id":273,
